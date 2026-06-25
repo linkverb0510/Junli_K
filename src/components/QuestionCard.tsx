@@ -18,6 +18,7 @@ type QuestionCardProps = {
   blankGrade: BlankGradeResult | null;
   onlyStarred: boolean;
   slideDirection?: "left" | "right";
+  submissionResult?: "correct" | "wrong" | null;
   onToggleStarFilter: () => void;
   onChoiceSelect: (selected: string) => void;
   onMultipleToggle: (selected: string) => void;
@@ -43,6 +44,7 @@ export function QuestionCard({
   blankGrade,
   onlyStarred,
   slideDirection = "right",
+  submissionResult = null,
   onToggleStarFilter,
   onChoiceSelect,
   onMultipleToggle,
@@ -54,10 +56,20 @@ export function QuestionCard({
 }: QuestionCardProps) {
   const [answerExpanded, setAnswerExpanded] = useState(true);
 
+  // 确定答案面板的正确/错误状态
+  const isAnswerCorrect = submissionResult === "correct" || 
+    (submissionResult === null && blankGrade?.result === "correct");
+
   return (
     <article className={`question-card-wrapper ${slideDirection === "left" ? "slide-left" : ""}`}>
       <div className="question-card">
         {/* 进度条 (A2) */}
+        <div className="question-progress-bar">
+          <div className="question-progress-fill" style={{ width: "100%" }}>
+            {/* 进度条由父组件传入进度数据 */}
+          </div>
+        </div>
+
         <div className="question-progress-info">
           <span>
             第 <strong>{index + 1}</strong> / {total} 题
@@ -166,14 +178,11 @@ export function QuestionCard({
         {revealAnswer && (
           <section className="answer-panel">
             <div
-              className={`answer-panel-header ${blankGrade?.result === "correct" || (!blankGrade && question.type !== "fill_blank" && (Array.isArray(question.answer) ? question.answer.every((a, i) => selectedChoices[i] === a) : question.answer === selectedChoices[0])) ? "correct" : "wrong"}`}
+              className={`answer-panel-header ${isAnswerCorrect ? "correct" : "wrong"}`}
               onClick={() => setAnswerExpanded(!answerExpanded)}
             >
               <span>
-                {blankGrade?.result === "correct" || (!blankGrade && question.type !== "fill_blank" && (Array.isArray(question.answer) ? question.answer.every((a, i) => selectedChoices[i] === a) : question.answer === selectedChoices[0]))
-                  ? "✓ 回答正确"
-                  : "✗ 回答错误"}{" "}
-                · {answerExpanded ? "收起答案" : "点击查看答案与解析"}
+                {isAnswerCorrect ? "✓ 回答正确" : "✗ 回答错误"} · {answerExpanded ? "收起答案" : "点击查看答案与解析"}
               </span>
               <span className="toggle-icon">{answerExpanded ? "▴" : "▾"}</span>
             </div>

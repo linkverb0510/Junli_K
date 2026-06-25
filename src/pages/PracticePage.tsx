@@ -33,6 +33,7 @@ export function PracticePage() {
   const [navExpanded, setNavExpanded] = useState(false);
   const [slideDirection, setSlideDirection] = useState<"left" | "right">("right");
   const [showKeyboardHelp, setShowKeyboardHelp] = useState(false);
+  const [submissionResult, setSubmissionResult] = useState<"correct" | "wrong" | null>(null);
   const pageRef = useRef<HTMLDivElement>(null);
 
   const neutralProgress = useMemo<StoredProgress>(() => ({ version: 1, byQuestionId: {} }), []);
@@ -61,6 +62,7 @@ export function PracticePage() {
     setSelectedChoices([]);
     setBlankInput("");
     setBlankGrade(null);
+    setSubmissionResult(null);
   }
 
   // 键盘快捷键 (A3)
@@ -79,7 +81,8 @@ export function PracticePage() {
           const option = currentQuestion.options?.find((o) => o.key === key);
           if (option) {
             setSelectedChoices([key]);
-            answerChoice(currentQuestion, key);
+            const result = answerChoice(currentQuestion, key);
+            setSubmissionResult(result);
             setRevealAnswer(true);
           }
         } else if (currentQuestion.type === "multiple_choice" && !revealAnswer) {
@@ -94,7 +97,8 @@ export function PracticePage() {
 
       // Enter 提交多选答案
       if (e.key === "Enter" && currentQuestion.type === "multiple_choice" && !revealAnswer && selectedChoices.length > 0) {
-        answerMultipleChoice(currentQuestion, selectedChoices);
+        const result = answerMultipleChoice(currentQuestion, selectedChoices);
+        setSubmissionResult(result);
         setRevealAnswer(true);
       }
 
@@ -103,6 +107,7 @@ export function PracticePage() {
         const result = gradeBlankAnswer(currentQuestion, blankInput);
         setBlankGrade(result);
         reviewBlank(currentQuestion, result.result);
+        setSubmissionResult(result.result);
         setRevealAnswer(true);
       }
 
@@ -202,13 +207,15 @@ export function PracticePage() {
             blankGrade={blankGrade}
             onlyStarred={onlyStarred}
             slideDirection={slideDirection}
+            submissionResult={submissionResult}
             onToggleStarFilter={() => {
               setOnlyStarred((current) => !current);
               moveTo(0);
             }}
             onChoiceSelect={(selected) => {
               setSelectedChoices([selected]);
-              answerChoice(currentQuestion, selected);
+              const result = answerChoice(currentQuestion, selected);
+              setSubmissionResult(result);
               setRevealAnswer(true);
             }}
             onMultipleToggle={(selected) => {
@@ -217,7 +224,8 @@ export function PracticePage() {
               );
             }}
             onMultipleSubmit={() => {
-              answerMultipleChoice(currentQuestion, selectedChoices);
+              const result = answerMultipleChoice(currentQuestion, selectedChoices);
+              setSubmissionResult(result);
               setRevealAnswer(true);
             }}
             onBlankInputChange={setBlankInput}
@@ -225,10 +233,12 @@ export function PracticePage() {
               const result = gradeBlankAnswer(currentQuestion, blankInput);
               setBlankGrade(result);
               reviewBlank(currentQuestion, result.result);
+              setSubmissionResult(result.result);
               setRevealAnswer(true);
             }}
             onBlankOverride={(result) => {
               overrideBlankReview(currentQuestion.id, result);
+              setSubmissionResult(result);
               setBlankGrade((current) =>
                 current ? { ...current, result, missing: result === "correct" ? [] : current.missing } : current,
               );
@@ -259,7 +269,7 @@ export function PracticePage() {
 
       {/* 快捷键提示条 */}
       <div className="keyboard-hint-bar">
-        <span>💡 支持键盘操作：A/B/C/D 选选项 · ←→ 翻页 · Enter 提交 · </span>
+        <span> 支持键盘操作：A/B/C/D 选选项 · ←→ 翻页 · Enter 提交 · </span>
         <button className="keyboard-hint-link" onClick={() => setShowKeyboardHelp(!showKeyboardHelp)}>
           查看全部快捷键
         </button>
