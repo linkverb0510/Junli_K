@@ -23,5 +23,8 @@ function normalizeQuestion(question: Question): Question {
 }
 
 export async function loadQuestions(): Promise<Question[]> {
-  return (rawQuestions as Question[]).map(normalizeQuestion);
+  // 过滤掉 2018 期末题库
+  return (rawQuestions as Question[])
+    .filter((q) => q.sourceKind !== "2018_exam")
+    .map(normalizeQuestion);
 }
