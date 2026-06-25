@@ -153,7 +153,15 @@ export function QuestionCard({
               className="blank-input"
               value={blankInput}
               onChange={(event) => onBlankInputChange(event.target.value)}
-              placeholder="请输入你的答案，多个要点可用分号、逗号或空格分隔"
+              onKeyDown={(event) => {
+                if (event.key === 'Enter' && !event.shiftKey) {
+                  event.preventDefault();
+                  if (blankInput.trim()) {
+                    onBlankSubmit();
+                  }
+                }
+              }}
+              placeholder="请输入你的答案，多个要点可用分号、逗号或空格分隔（按 Enter 提交，Shift+Enter 换行）"
               disabled={revealAnswer}
             />
             {!revealAnswer ? (
