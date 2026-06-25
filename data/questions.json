@@ -1,0 +1,2580 @@
+[
+  {
+    "id": "chapter-1-choice-1",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "国防的基本含义中，国家进行军事活动的根本目的是为了？",
+    "options": [
+      {
+        "key": "A",
+        "text": "扩张领土与势力范围"
+      },
+      {
+        "key": "B",
+        "text": "防备和抵抗侵略，制止武装颠覆和分裂，保卫国家主权、统一、领土完整、安全 和发展利益"
+      },
+      {
+        "key": "C",
+        "text": "参与国际事务与维和行动"
+      },
+      {
+        "key": "D",
+        "text": "提升国际地位与影响力"
+      }
+    ],
+    "answer": "B",
+    "explanation": "国防定义明确指出其目的是“防备和抵抗侵略，制止武装颠覆和 分裂，保卫国家的主权、统一、领土完整、安全和发展利益”。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-1-choice-2",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防的行为主体是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "军队"
+      },
+      {
+        "key": "B",
+        "text": "政府"
+      },
+      {
+        "key": "C",
+        "text": "国家"
+      },
+      {
+        "key": "D",
+        "text": "公民"
+      }
+    ],
+    "answer": "C",
+    "explanation": "国防的行为主题是国家，基本内容包括国防建设和国防斗争两 个方面。"
+  },
+  {
+    "id": "chapter-1-choice-3",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防的基本内容包括哪两个方面？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国防建设和国防斗争"
+      },
+      {
+        "key": "B",
+        "text": "国防教育与国防动员"
+      },
+      {
+        "key": "C",
+        "text": "国防科研与国防生产"
+      },
+      {
+        "key": "D",
+        "text": "国防法规与国防外交"
+      }
+    ],
+    "answer": "A",
+    "explanation": "国防的基本内容包括国防建设和国防斗争两个方面。"
+  },
+  {
+    "id": "chapter-1-choice-4",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于国防的地位作用？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家生存与发展的安全保障"
+      },
+      {
+        "key": "B",
+        "text": "国家独立自主的前提"
+      },
+      {
+        "key": "C",
+        "text": "国家繁荣富强的重要条件"
+      },
+      {
+        "key": "D",
+        "text": "国家扩张霸权的工具"
+      }
+    ],
+    "answer": "D",
+    "explanation": "国防是防御性的，不是扩张霸权的工具。国防地位作用 仅包括 ABC 三项。"
+  },
+  {
+    "id": "chapter-1-choice-5",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "奉行霸权主义、强权政治和进攻性战略的国防类型是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "自卫型"
+      },
+      {
+        "key": "B",
+        "text": "扩张型"
+      },
+      {
+        "key": "C",
+        "text": "联盟型"
+      },
+      {
+        "key": "D",
+        "text": "中立型"
+      }
+    ],
+    "answer": "B",
+    "explanation": "扩张型国防奉行霸权主义、强权政治和进攻性战略；自卫型国 防以维护国家安全、防止和抵御外敌侵略为目的。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-1-choice-6",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "中国古代最早的国防始于哪个朝代？",
+    "options": [
+      {
+        "key": "A",
+        "text": "商朝"
+      },
+      {
+        "key": "B",
+        "text": "夏朝"
+      },
+      {
+        "key": "C",
+        "text": "周朝"
+      },
+      {
+        "key": "D",
+        "text": "秦朝"
+      }
+    ],
+    "answer": "B",
+    "explanation": "中国古代最早的国防始于夏朝。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-1-choice-7",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于中国现代国防的鲜明特点？",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治性"
+      },
+      {
+        "key": "B",
+        "text": "防御性"
+      },
+      {
+        "key": "C",
+        "text": "扩张性"
+      },
+      {
+        "key": "D",
+        "text": "人民性"
+      }
+    ],
+    "answer": "C",
+    "explanation": "中国现代国防具有政治性、防御性、人民性和自主性等鲜明特 点，不包括扩张性。",
+    "memoryHint": "高频必背：C"
+  },
+  {
+    "id": "chapter-1-choice-8",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "中国国防历史的启示不包括下列哪项？",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治昌明是国防巩固的根本"
+      },
+      {
+        "key": "B",
+        "text": "经济发展是国防强大的基础"
+      },
+      {
+        "key": "C",
+        "text": "国家统一和民族团结是国防强大的前提"
+      },
+      {
+        "key": "D",
+        "text": "军事同盟是国防强大的关键"
+      }
+    ],
+    "answer": "D",
+    "explanation": "中国国防历史的启示仅包括 ABC 三项，不包括军事同盟。"
+  },
+  {
+    "id": "chapter-1-blank-1",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "国防，是 指国家为防备和抵抗侵略，制止武装颠覆和分裂，保卫国家的 ______、______、______、______和发展利益所进行的军事活动。",
+    "answer": [
+      "主权",
+      "统一",
+      "领土完整",
+      "安全"
+    ],
+    "explanation": "国防定义中明确保卫的五项利益： 主权、统一、领土完整、安全、发展利益。",
+    "memoryHint": "高频必背：主权 / 统一 / 领土完整 / 安全"
+  },
+  {
+    "id": "chapter-1-blank-2",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "国防的行为主体是______，基本内容包括______和______两个方面。",
+    "answer": [
+      "国家",
+      "国防建设",
+      "国防斗争"
+    ],
+    "explanation": "国防行为主体是国家，基本内容包括 国防建设与国防斗争。"
+  },
+  {
+    "id": "chapter-1-blank-3",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "国防的地位作用包括：国防是国家生存与发展的 ______；国防是国家 ______的前提；国防是国家繁荣富强的______。",
+    "answer": [
+      "安全保障",
+      "独立自主",
+      "重要条件"
+    ],
+    "explanation": "三项地位作用需准确记。"
+  },
+  {
+    "id": "chapter-1-blank-4",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "奉行霸权主义、强权政治和进攻性战略的国防类型是 ______型国防；以维 护国家安全、防止和抵御外敌侵略为目的的国防类型是______型国防。",
+    "answer": [
+      "扩张",
+      "自卫"
+    ],
+    "explanation": "两种国防类型需区分清楚。",
+    "memoryHint": "高频必背：扩张 / 自卫"
+  },
+  {
+    "id": "chapter-1-blank-5",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "中国古代最早的国防始于______朝。",
+    "answer": [
+      "夏"
+    ],
+    "explanation": "中国古代最早的国防始于夏朝。",
+    "memoryHint": "高频必背：夏"
+  },
+  {
+    "id": "chapter-1-blank-6",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "中国现代国防具有______、______、______和______等鲜明特点。",
+    "answer": [
+      "政治性",
+      "防御性",
+      "人民性",
+      "自主性"
+    ],
+    "explanation": "四大特点需完整记忆，其中政 治性表现在服从中国共产党的绝对领导。",
+    "memoryHint": "高频必背：政治性 / 防御性 / 人民性 / 自主性"
+  },
+  {
+    "id": "chapter-1-blank-7",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "中国国防历史的启示：政治昌明是国防巩固的______；经济发展是国防强 大的______；国家统一和民族团结是国防强大的______。",
+    "answer": [
+      "根本",
+      "基础",
+      "前提"
+    ],
+    "explanation": "三项启示需准确记定位。"
+  },
+  {
+    "id": "chapter-1-blank-8",
+    "chapterId": "chapter-1",
+    "chapterTitle": "第一章 国防基本理论",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "当前我国防御性国防政策的新变化表现为四个拓展：______拓展、______ 拓展、______拓展和______拓展。",
+    "answer": [
+      "范围",
+      "目标",
+      "任务",
+      "手段"
+    ],
+    "explanation": "四个拓展是防御性国防政策新变化的核 心点。",
+    "memoryHint": "高频必背：范围 / 目标 / 任务 / 手段"
+  },
+  {
+    "id": "chapter-2-choice-1",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防法规体系是指？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家制定的所有军事法律"
+      },
+      {
+        "key": "B",
+        "text": "国家和军队现行国防法律规范按照层次和门类构成的有机整体"
+      },
+      {
+        "key": "C",
+        "text": "国防法及其配套法规的总称"
+      },
+      {
+        "key": "D",
+        "text": "中国人民解放军内部的纪律规定"
+      }
+    ],
+    "answer": "B",
+    "explanation": "国防法规体系是国家和军队现行国防法律规范按照层次和门类 构成的有机整体。"
+  },
+  {
+    "id": "chapter-2-choice-2",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "指导和规范我国国防活动的基本法律依据是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "《兵役法》"
+      },
+      {
+        "key": "B",
+        "text": "《国防教育法》"
+      },
+      {
+        "key": "C",
+        "text": "《中华人民共和国国防法》"
+      },
+      {
+        "key": "D",
+        "text": "《国防动员法》"
+      }
+    ],
+    "answer": "C",
+    "explanation": "《中华人民共和国国防法》是指导和规范我国国防活动的基本 法律依据。",
+    "memoryHint": "高频必背：C"
+  },
+  {
+    "id": "chapter-2-choice-3",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "按照《兵役法》规定，年满 18 周岁的男性公民，应当被征集服现役；当年 未被征集的，在多少周岁以前仍可以被征集？",
+    "options": [
+      {
+        "key": "A",
+        "text": "20 周岁"
+      },
+      {
+        "key": "B",
+        "text": "22 周岁"
+      },
+      {
+        "key": "C",
+        "text": "24 周岁"
+      },
+      {
+        "key": "D",
+        "text": "26 周岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "当年未被征集的，在 22 周岁以前仍可以被征集服现役；普通高 校毕业生可放宽至 24 周岁，研究生可放宽至 26 周岁。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-2-choice-4",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "普通高等学校毕业生的征集年龄可以放宽至？",
+    "options": [
+      {
+        "key": "A",
+        "text": "22 周岁"
+      },
+      {
+        "key": "B",
+        "text": "24 周岁"
+      },
+      {
+        "key": "C",
+        "text": "26 周岁"
+      },
+      {
+        "key": "D",
+        "text": "28 周岁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "普通高校毕业生可放宽至 24 周岁，研究生可放宽至 26 周岁。"
+  },
+  {
+    "id": "chapter-2-choice-5",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于公民的国防义务？",
+    "options": [
+      {
+        "key": "A",
+        "text": "接受国防教育的义务"
+      },
+      {
+        "key": "B",
+        "text": "保护国防设施的义务"
+      },
+      {
+        "key": "C",
+        "text": "保守国防秘密的义务"
+      },
+      {
+        "key": "D",
+        "text": "自由选择是否协助国防活动"
+      }
+    ],
+    "answer": "D",
+    "explanation": "协助国防活动是公民的义务，不是可选项。公民的国防义务包 括接受国防教育、保护国防设施、保守国防秘密、协助国防活动。"
+  },
+  {
+    "id": "chapter-2-choice-6",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于公民的国防权利？",
+    "options": [
+      {
+        "key": "A",
+        "text": "对国防建设提出建议"
+      },
+      {
+        "key": "B",
+        "text": "对危害国防行为进行制止或检举"
+      },
+      {
+        "key": "C",
+        "text": "获得经济损失补偿"
+      },
+      {
+        "key": "D",
+        "text": "免征兵役的权利"
+      }
+    ],
+    "answer": "D",
+    "explanation": "公民的国防权利包括建议权、制止检举权、补偿权，不包括免 征兵役权。"
+  },
+  {
+    "id": "chapter-2-choice-7",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "依照宪法和有关法律，决定全国总动员或局部动员的机关是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家主席"
+      },
+      {
+        "key": "B",
+        "text": "国务院"
+      },
+      {
+        "key": "C",
+        "text": "全国人大常委会"
+      },
+      {
+        "key": "D",
+        "text": "中央军委"
+      }
+    ],
+    "answer": "C",
+    "explanation": "全国人大常委会决定全国总动员或局部动员，国家主席根据全 国人大常委会的决定发布动员令。",
+    "memoryHint": "高频必背：C"
+  },
+  {
+    "id": "chapter-2-choice-8",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防义务与国防权利的关系是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "只有义务没有权利"
+      },
+      {
+        "key": "B",
+        "text": "只有权利没有义务"
+      },
+      {
+        "key": "C",
+        "text": "对立统一"
+      },
+      {
+        "key": "D",
+        "text": "互不相干"
+      }
+    ],
+    "answer": "C",
+    "explanation": "国防义务与国防权利对立统一。"
+  },
+  {
+    "id": "chapter-2-blank-1",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "国防法规体系，是指国家和军队现行国防法律规范按照______和______构 成的有机整体。",
+    "answer": [
+      "层次",
+      "门类"
+    ],
+    "explanation": "国防法规体系按层次和门类构成。"
+  },
+  {
+    "id": "chapter-2-blank-2",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "《______》是指导和规范我国国防活动的基本法律依据。",
+    "answer": [
+      "中华人民共和国国防法"
+    ],
+    "explanation": "《中华人民共和国国防法》是基本法律依 据。",
+    "memoryHint": "高频必背：中华人民共和国国防法"
+  },
+  {
+    "id": "chapter-2-blank-3",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "兵役 分为 ______和______两种。在中国 人民解 放军和武装 警察 部队 服 ______的称现役军人。",
+    "answer": [
+      "现役",
+      "预备役",
+      "现役"
+    ],
+    "explanation": "兵役分现役与预备役两种。",
+    "memoryHint": "高频必背：现役 / 预备役 / 现役"
+  },
+  {
+    "id": "chapter-2-blank-4",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "按照《兵役法》规定，年满______周岁的男性公民，应当被征集服现役； 当年未被征 集的，在 ______周岁 以前 仍可 以被征 集； 普通 高校毕业 生可放宽至 ______周岁；研究生可放宽至______周岁。",
+    "answer": [
+      "18",
+      "22",
+      "24",
+      "26"
+    ],
+    "explanation": "四个年龄节点需准确记忆：18/22/24/26。",
+    "memoryHint": "高频必背：18 / 22 / 24 / 26"
+  },
+  {
+    "id": "chapter-2-blank-5",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "公民的国防义务包括： 接受 ______的义务；保 护______的义务；保 守 ______的义务；协助______的义务。",
+    "answer": [
+      "国防教育",
+      "国防设施",
+      "国防秘密",
+      "国防活动"
+    ],
+    "explanation": "四项国防义务需完整 记忆。"
+  },
+  {
+    "id": "chapter-2-blank-6",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "公民的国防权利包括：对国防建设提出 ______；对 危害 国防行为进行 ______或______；获得______。",
+    "answer": [
+      "建议",
+      "制止",
+      "检举",
+      "经济损失补偿"
+    ],
+    "explanation": "三项国防权利需准确记忆。"
+  },
+  {
+    "id": "chapter-2-blank-7",
+    "chapterId": "chapter-2",
+    "chapterTitle": "第二章 国防法规与公民义务",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "依照宪法和有关法律，______决定全国总动员或局部动员。______根据全 国人大常委会的决定发布动员令。",
+    "answer": [
+      "全国人大常委会",
+      "国家主席"
+    ],
+    "explanation": "决定权与发布权分属不同机关。",
+    "memoryHint": "高频必背：全国人大常委会 / 国家主席"
+  },
+  {
+    "id": "chapter-3-choice-1",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防战略是指？",
+    "options": [
+      {
+        "key": "A",
+        "text": "筹划和指导国防建设与斗争全局的方略，是国家战略的组成部分"
+      },
+      {
+        "key": "B",
+        "text": "指导军事斗争的具体方针"
+      },
+      {
+        "key": "C",
+        "text": "国家经济发展的总体规划"
+      },
+      {
+        "key": "D",
+        "text": "外交政策的核心内容"
+      }
+    ],
+    "answer": "A",
+    "explanation": "国防战略是筹划和指导国防建设与斗争全局的方略，是国家战 略的组成部分。"
+  },
+  {
+    "id": "chapter-3-choice-2",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "我国必须毫不动摇坚持的战略思想是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "积极防御战略思想"
+      },
+      {
+        "key": "B",
+        "text": "先发制人战略思想"
+      },
+      {
+        "key": "C",
+        "text": "全面进攻战略思想"
+      },
+      {
+        "key": "D",
+        "text": "联盟作战战略思想"
+      }
+    ],
+    "answer": "A",
+    "explanation": "我国社会主义性质和国家根本利益，走和平发展道路的客观要 求决定了必须毫不动摇坚持积极防御战略思想。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-3-choice-3",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "新时代军事战略方针坚持的原则不包括？",
+    "options": [
+      {
+        "key": "A",
+        "text": "防御"
+      },
+      {
+        "key": "B",
+        "text": "自卫"
+      },
+      {
+        "key": "C",
+        "text": "先发制人"
+      },
+      {
+        "key": "D",
+        "text": "后发制人"
+      }
+    ],
+    "answer": "C",
+    "explanation": "新时代军事战略方针坚持防御、自卫、后发制人原则，实行积 极防御。",
+    "memoryHint": "高频必背：C"
+  },
+  {
+    "id": "chapter-3-choice-4",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "新时代军事战略方针强调的两个“统一”是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "遯制战争与打赢战争相统一，战略上防御与战役战斗上进攻相统一"
+      },
+      {
+        "key": "B",
+        "text": "军事与经济相统一，军事与外交相统一"
+      },
+      {
+        "key": "C",
+        "text": "防御与进攻相统一，内部与外部相统一"
+      },
+      {
+        "key": "D",
+        "text": "平时与战时相统一，建设与斗争相统一"
+      }
+    ],
+    "answer": "A",
+    "explanation": "强调遯制战争与打赢战争相统一，强调战略上防御与战役战斗 上进攻相统一。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-3-choice-5",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "武装力量是指？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家所有的军事人员"
+      },
+      {
+        "key": "B",
+        "text": "国家或政治集团所拥有的各种武装组织的总称"
+      },
+      {
+        "key": "C",
+        "text": "国家的常备军队"
+      },
+      {
+        "key": "D",
+        "text": "国家的预备役部队"
+      }
+    ],
+    "answer": "B",
+    "explanation": "武装力量是指国家或政治集团所拥有的各种武装组织的总称。"
+  },
+  {
+    "id": "chapter-3-choice-6",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "中国军队的性质由什么决定？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家的经济发展水平"
+      },
+      {
+        "key": "B",
+        "text": "党的性质"
+      },
+      {
+        "key": "C",
+        "text": "国家的军事传统"
+      },
+      {
+        "key": "D",
+        "text": "国际环境的变化"
+      }
+    ],
+    "answer": "B",
+    "explanation": "党的性质决定了这支军队的性质。中国共产党是无产阶级的政 党，由这样的党缔造和领导的军队，必须始终不湅地保持人民军队的性质。"
+  },
+  {
+    "id": "chapter-3-choice-7",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于新时代党和人民赋予中国军队的“四个战略支撑”？",
+    "options": [
+      {
+        "key": "A",
+        "text": "为巩固中国共产党领导和社会主义制度提供战略支撑"
+      },
+      {
+        "key": "B",
+        "text": "为捍卫国家主权、统一、领土完整提供战略支撑"
+      },
+      {
+        "key": "C",
+        "text": "为维护国家海外利益提供战略支撑"
+      },
+      {
+        "key": "D",
+        "text": "为扩张国家领土提供战略支撑"
+      }
+    ],
+    "answer": "D",
+    "explanation": "第四个战略支撑应为“为促进世界和平与发展提供战略支撑”，不 是扩张领土。中国奉行防御性国防政策。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-3-choice-8",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "中华人民共和国的武装力量由哪三部分组成？",
+    "options": [
+      {
+        "key": "A",
+        "text": "解放军、武警、民兵"
+      },
+      {
+        "key": "B",
+        "text": "陆军、海军、空军"
+      },
+      {
+        "key": "C",
+        "text": "现役军人、预备役军人、民兵"
+      },
+      {
+        "key": "D",
+        "text": "作战部队、后勤部队、科研部队"
+      }
+    ],
+    "answer": "A",
+    "explanation": "中华人民共和国的武装力量由中国人民解放军、中国人民武装 警察部队、民兵组成。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-3-choice-9",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "中国民兵的性质是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "脱离生产的专业军事组织"
+      },
+      {
+        "key": "B",
+        "text": "不脱离生产的群众武装组织，是解放军的助手和后备力量"
+      },
+      {
+        "key": "C",
+        "text": "国家的常备军队"
+      },
+      {
+        "key": "D",
+        "text": "国家的海外作战部队"
+      }
+    ],
+    "answer": "B",
+    "explanation": "中国民兵是不脱离生产的群众武装组织，是中华人民共和国武 装力量的组成部分，是解放军的助手和后备力量。"
+  },
+  {
+    "id": "chapter-3-choice-10",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于中国军队的使命任务？",
+    "options": [
+      {
+        "key": "A",
+        "text": "维护国家领土主权和海洋权益"
+      },
+      {
+        "key": "B",
+        "text": "遂行反恐维稳"
+      },
+      {
+        "key": "C",
+        "text": "参加抢险救灾"
+      },
+      {
+        "key": "D",
+        "text": "干预他国内政"
+      }
+    ],
+    "answer": "D",
+    "explanation": "中国军队的使命任务包括维护领土主权海洋权益、保持常备不 懈战备状态、开展实战化军事训练、维护重大安全领域利益、遂行反恐维稳、维护 海外利益、参加抢险救灾，不包括干预他国内政。"
+  },
+  {
+    "id": "chapter-3-blank-1",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "国防战略，是指筹划和指导______与______全局的方略，是国家战略的 组 成部分。",
+    "answer": [
+      "国防建设",
+      "国防斗争"
+    ],
+    "explanation": "国防战略筹划指导国防建设与国防斗争全局。"
+  },
+  {
+    "id": "chapter-3-blank-2",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "我国必须毫不动摇坚持______战略思想，这是由我国社会主义性质和国家 根本利益、走和平发展道路的客观要求决定的。",
+    "answer": [
+      "积极防御"
+    ],
+    "explanation": "积极防御是我国必须毫不动坚持的战略思想。",
+    "memoryHint": "高频必背：积极防御"
+  },
+  {
+    "id": "chapter-3-blank-3",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新时代军事战略方针坚持______、______、______原则，实行积极防御， 坚持“人不犯我、我不犯人，人若犯我、我必犯人”。",
+    "answer": [
+      "防御",
+      "自卫",
+      "后发制人"
+    ],
+    "explanation": "三大原则需准确记忆。",
+    "memoryHint": "高频必背：防御 / 自卫 / 后发制人"
+  },
+  {
+    "id": "chapter-3-blank-4",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新时代军事战略方针强调______与______相统一，强调战略上______与战 役战斗上______相统一。",
+    "answer": [
+      "遯制战争",
+      "打赢战争",
+      "防御",
+      "进攻"
+    ],
+    "explanation": "两个统一是新时代军事战略方 针的核心要点。",
+    "memoryHint": "高频必背：遯制战争 / 打赢战争 / 防御 / 进攻"
+  },
+  {
+    "id": "chapter-3-blank-5",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "武装力量，是指国家或______所拥有的各种______的总称。",
+    "answer": [
+      "政治集团",
+      "武装组织"
+    ],
+    "explanation": "武装力量包括国家或政治集团所拥有的各种 武装组织。"
+  },
+  {
+    "id": "chapter-3-blank-6",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新时代党和人民赋予中国军队的“四个战略支撑”是：为巩固______领导和社 会主义制度提供战略支撑；为捍卫国家主权、统一、领土完整提 供战略支撑；为维 护国家______利益提供战略支撑；为促进世界和平与发展提供战略支撑。",
+    "answer": [
+      "中国共产党",
+      "海外"
+    ],
+    "explanation": "四个战略支撑是新时代军队使命的核心表述。",
+    "memoryHint": "高频必背：中国共产党 / 海外"
+  },
+  {
+    "id": "chapter-3-blank-7",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "中华人民共和国的武装力量 由中国人民解放军、______、______三部分组 成。",
+    "answer": [
+      "中国人民武装警察部队",
+      "民兵"
+    ],
+    "explanation": "三大组成部分需准确记忆。",
+    "memoryHint": "高频必背：中国人民武装警察部队 / 民兵"
+  },
+  {
+    "id": "chapter-3-blank-8",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "中国民兵是不脱离生产的______组织，是中华人民共和国武装力量的 组成 部分，是中国人民解放军的______和后备力量。",
+    "answer": [
+      "群众武装",
+      "助手"
+    ],
+    "explanation": "民兵的两大定位：助手与后备力量。"
+  },
+  {
+    "id": "chapter-3-blank-9",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "中国军队的使命 任务包括七项：维 护国家领土主权和 海洋 权益；保 持 ______的战备状态；开展______军事训练；维护重大安全领域利益；遂行反恐维稳； 维护海外利益；参加抢险救灾。",
+    "answer": [
+      "常备不懈",
+      "实战化"
+    ],
+    "explanation": "七项使命任务需完整记忆。"
+  },
+  {
+    "id": "chapter-3-blank-10",
+    "chapterId": "chapter-3",
+    "chapterTitle": "第三章 国防战略与武装力量",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "党的性质决定了这支军队的性质，必须始终不湅地保持人民军队的性质， 确保绝对______、绝对______、绝对______。",
+    "answer": [
+      "忠诚",
+      "纯洁",
+      "可靠"
+    ],
+    "explanation": "三个“绝对”是军队忠诚的核心要求。"
+  },
+  {
+    "id": "chapter-4-choice-1",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "国防动员是指？",
+    "options": [
+      {
+        "key": "A",
+        "text": "国家发动战争的行动"
+      },
+      {
+        "key": "B",
+        "text": "国家为应对战争或其他安全威胁，使社会诸领域的全部或部分由平时状态转入战 时状态或紧急状态的活动"
+      },
+      {
+        "key": "C",
+        "text": "军队集结备战的行动"
+      },
+      {
+        "key": "D",
+        "text": "公民服兵役的行动"
+      }
+    ],
+    "answer": "B",
+    "explanation": "国防动员是国家为应对战争或其他安全威胁，使社会诸领域由 平时转入战时或紧急状态的活动。"
+  },
+  {
+    "id": "chapter-4-choice-2",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "国防动员主要内容包括哪五项？",
+    "options": [
+      {
+        "key": "A",
+        "text": "武装力量动员、国民经济动员、政治动员、人民防空动员、交通战备动员"
+      },
+      {
+        "key": "B",
+        "text": "军事动员、经济动员、科技动员、教育动员、外交动员"
+      },
+      {
+        "key": "C",
+        "text": "陆军动员、海军动员、空军动员、火箭动员、战略动员"
+      },
+      {
+        "key": "D",
+        "text": "现役动员、预备役动员、民兵动员、后勤动员、装备动员"
+      }
+    ],
+    "answer": "A",
+    "explanation": "国防动员主要包括武装力量动员、国民经济动员、政治动员、 人民防空动员和交通战备动员五项。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-4-choice-3",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "平时政治动员主要表现为？",
+    "options": [
+      {
+        "key": "A",
+        "text": "军事演习"
+      },
+      {
+        "key": "B",
+        "text": "国防教育"
+      },
+      {
+        "key": "C",
+        "text": "外交谈判"
+      },
+      {
+        "key": "D",
+        "text": "经济制裁"
+      }
+    ],
+    "answer": "B",
+    "explanation": "平时政治动员主要表现为国防教育，战时政治动员主要包括国 内政治动员和外交舆论宣传。"
+  },
+  {
+    "id": "chapter-4-choice-4",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "理解总体国家安全观的关键是要深刻把握？",
+    "options": [
+      {
+        "key": "A",
+        "text": "一个总体和十个坚持"
+      },
+      {
+        "key": "B",
+        "text": "三个绝对和五个坚持"
+      },
+      {
+        "key": "C",
+        "text": "四个全面和八个坚持"
+      },
+      {
+        "key": "D",
+        "text": "五个统一和十个明确"
+      }
+    ],
+    "answer": "A",
+    "explanation": "理解总体国家安全观，关键是要深刻把握一个总体和十个坚持。 总体国家安全观的关键是总体。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-4-choice-5",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于新兴领域国家安全？",
+    "options": [
+      {
+        "key": "A",
+        "text": "网络空间安全"
+      },
+      {
+        "key": "B",
+        "text": "外层空间安全"
+      },
+      {
+        "key": "C",
+        "text": "国际海底区域安全"
+      },
+      {
+        "key": "D",
+        "text": "传统陆圿安全"
+      }
+    ],
+    "answer": "D",
+    "explanation": "新兴领域国家安全包括网络空间、外层空间、国际海底区域、 极地、生物安全五项，不包括传统陆圿安全。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-4-choice-6",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "当前国际战略形势的总体表现不包括？",
+    "options": [
+      {
+        "key": "A",
+        "text": "世界多极化进程加快"
+      },
+      {
+        "key": "B",
+        "text": "经济全球化进程出现波折"
+      },
+      {
+        "key": "C",
+        "text": "大国战略博弈更加激烈"
+      },
+      {
+        "key": "D",
+        "text": "世界单极格局已经形成"
+      }
+    ],
+    "answer": "D",
+    "explanation": "当前国际战略形势是多极化加快、全球化波折、大国博弈激烈、 全球性问题增多，世界单极格局未形成。"
+  },
+  {
+    "id": "chapter-4-choice-7",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "当今国际战略格局演变呈现什么特征？",
+    "options": [
+      {
+        "key": "A",
+        "text": "西方与新兴大国消长竞合"
+      },
+      {
+        "key": "B",
+        "text": "东西方对峙加剧"
+      },
+      {
+        "key": "C",
+        "text": "南北差距扩大"
+      },
+      {
+        "key": "D",
+        "text": "单极世界形成"
+      }
+    ],
+    "answer": "A",
+    "explanation": "当今国际战略格局演变呈现西方与新兴大国消长竞合。"
+  },
+  {
+    "id": "chapter-4-choice-8",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于当前全球性问题和挑战？",
+    "options": [
+      {
+        "key": "A",
+        "text": "恐怖主义威胁"
+      },
+      {
+        "key": "B",
+        "text": "难民问题"
+      },
+      {
+        "key": "C",
+        "text": "大国在战略军备与军控领域博弈加剧"
+      },
+      {
+        "key": "D",
+        "text": "民族文化传承衰落"
+      }
+    ],
+    "answer": "D",
+    "explanation": "全球性问题包括恐怖主义、网络犯罪、难民问题、大国军备军 控博弈，不包括民族文化传承衰落。"
+  },
+  {
+    "id": "chapter-4-choice-9",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "总体国家安全观的核心要义集中体现为“十个坚持”，下列哪项不属于十个坚 持？",
+    "options": [
+      {
+        "key": "A",
+        "text": "坚持党对国家安全工作的绝对领导"
+      },
+      {
+        "key": "B",
+        "text": "坚持以人民安全为宗旨"
+      },
+      {
+        "key": "C",
+        "text": "坚持把政治安全放在首要位置"
+      },
+      {
+        "key": "D",
+        "text": "坚持军事斗争优先发展"
+      }
+    ],
+    "answer": "D",
+    "explanation": "十个坚持不包括“军事斗争优先发展”，应为坚持推进国家安全体 系和能力现代化。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-4-blank-1",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "国防动员是指国家为应对战争或其他安全威胁，使社会诸领域的全部或部 分由______转入______或紧急状态的活动。",
+    "answer": [
+      "平时状态",
+      "战时状态"
+    ],
+    "explanation": "国防动员是状态转换的活动。"
+  },
+  {
+    "id": "chapter-4-blank-2",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "国防动员主要内容包括五项： ______动员、 ______动员、 ______动员、 ______动员和______动员。",
+    "answer": [
+      "武装力量",
+      "国民经济",
+      "政治",
+      "人民防空",
+      "交通战备"
+    ],
+    "explanation": "五项动员内容 需完整记忆。",
+    "memoryHint": "高频必背：武装力量 / 国民经济 / 政治 / 人民防空 / 交通战备"
+  },
+  {
+    "id": "chapter-4-blank-3",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "平时政治动员主要表现为______，战时政治动员主要包括国内政治动员和 ______。",
+    "answer": [
+      "国防教育",
+      "外交舆论宣传"
+    ],
+    "explanation": "政治动员平时与战时表现不同。"
+  },
+  {
+    "id": "chapter-4-blank-4",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "理解总体国家安全观， 关键是要深刻把握一个______和十个______。总体 国家安全观的关键是______。",
+    "answer": [
+      "总体",
+      "坚持",
+      "总体"
+    ],
+    "explanation": "总体是总体国家安全观的关键。",
+    "memoryHint": "高频必背：总体 / 坚持 / 总体"
+  },
+  {
+    "id": "chapter-4-blank-5",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新兴领域国家安全包括五项： ______安全； ______安全； ______安全； ______安全；生物安全。",
+    "answer": [
+      "网络空间",
+      "外层空间",
+      "国际海底区域",
+      "极地"
+    ],
+    "explanation": "五大新兴领域需完整 记忆。",
+    "memoryHint": "高频必背：网络空间 / 外层空间 / 国际海底区域 / 极地"
+  },
+  {
+    "id": "chapter-4-blank-6",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "当前国际战略形势总体表现为：世界______进程加快，经济______进程出 现波折，大国战略博弈更加激烈，全球性问题和挑战空前增多。",
+    "answer": [
+      "多极化",
+      "全球化"
+    ],
+    "explanation": "四大表现需准确记忆。"
+  },
+  {
+    "id": "chapter-4-blank-7",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "当今国际战略格局演变呈现______与______消长竞合。",
+    "answer": [
+      "西方",
+      "新兴大国"
+    ],
+    "explanation": "西方与新兴大国的消长竞合是当前国际格局特征。"
+  },
+  {
+    "id": "chapter-4-blank-8",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "当前全球性问题和挑战主要有四项：第一，______威胁不减；第二，网络 犯罪与______活动；第三，______问题；第四，大国在战略军备与 ______领域博弈 加剧。",
+    "answer": [
+      "恐怖主义",
+      "黑客攻击/恐怖组织",
+      "难民",
+      "军控"
+    ],
+    "explanation": "四项全球性问题需完 整记忆。"
+  },
+  {
+    "id": "chapter-4-blank-9",
+    "chapterId": "chapter-4",
+    "chapterTitle": "第四章 国防动员与总体国家安全观",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "总体国家安全观的核心要义集中体现为“十个坚持”，包括：坚持党对国家安 全工作的______领导；坚持中国特色国家安全道路；坚持以______安全为宗旨；坚 持统筹发展的安全；坚持把______安全放在首要位置等。",
+    "answer": [
+      "绝对",
+      "人民",
+      "政治"
+    ],
+    "explanation": "十个坚持是总体国家安全观的核心要义，需重 点记忆。",
+    "memoryHint": "高频必背：绝对 / 人民 / 政治"
+  },
+  {
+    "id": "chapter-5-choice-1",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于军事思想的基本特征？",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治性"
+      },
+      {
+        "key": "B",
+        "text": "实践性"
+      },
+      {
+        "key": "C",
+        "text": "时代性"
+      },
+      {
+        "key": "D",
+        "text": "个人性"
+      }
+    ],
+    "answer": "D",
+    "explanation": "军事思想的基本特征包括政治性、实践性、时代性、民族性、 继承性、创造性六项，不包括个人性。"
+  },
+  {
+    "id": "chapter-5-choice-2",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "《孙子兵法》的作者是哪个时期的伟大军事家？",
+    "options": [
+      {
+        "key": "A",
+        "text": "战国时期孙武"
+      },
+      {
+        "key": "B",
+        "text": "春秋时期孙武"
+      },
+      {
+        "key": "C",
+        "text": "汉朝韩信"
+      },
+      {
+        "key": "D",
+        "text": "三国诸葛亮"
+      }
+    ],
+    "answer": "B",
+    "explanation": "《孙子兵法》作者是春秋时期伟大军事家孙武。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-5-choice-3",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于中国古代军事思想代表作？",
+    "options": [
+      {
+        "key": "A",
+        "text": "重战慎战备战思想"
+      },
+      {
+        "key": "B",
+        "text": "知己知彼百战不殆的战争指导思想"
+      },
+      {
+        "key": "C",
+        "text": "以谋略制胜为核心的用兵思想"
+      },
+      {
+        "key": "D",
+        "text": "机动战争为主的现代战思想"
+      }
+    ],
+    "answer": "D",
+    "explanation": "中国古代军事思想代表作包括重战慎战备战思想、知己知彼百 战不殆、以谋略制胜、文武兼施恩威并用治军、朴素唯物论和原始辩证法思想，不 包括机动战争为主的现代战思想。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-5-choice-4",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "毛泽东军事思想的主要内容不包括？",
+    "options": [
+      {
+        "key": "A",
+        "text": "战争观和军事方法论"
+      },
+      {
+        "key": "B",
+        "text": "人民军队思想"
+      },
+      {
+        "key": "C",
+        "text": "人民战争思想及其战略战术"
+      },
+      {
+        "key": "D",
+        "text": "信息化战争思想"
+      }
+    ],
+    "answer": "D",
+    "explanation": "毛泽东军事思想包括战争观和方法论、人民军队思想、人民战 争思想、人民战争的战略战术思想、国防建设思想，不包括信息化战争思想。"
+  },
+  {
+    "id": "chapter-5-choice-5",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "习近平强军思想中提出的三步走目标不包括？",
+    "options": [
+      {
+        "key": "A",
+        "text": "2027 年实现建军一百年奋斗目标"
+      },
+      {
+        "key": "B",
+        "text": "2035 年基本实现国防和军队现代化"
+      },
+      {
+        "key": "C",
+        "text": "本世纪中叶把人民军队建成世界一流军队"
+      },
+      {
+        "key": "D",
+        "text": "2050 年实现全面称霸世界"
+      }
+    ],
+    "answer": "D",
+    "explanation": "三步走目标为 2027 年、2035 年、本世纪中叶，不包括称霸世界 中国奉行防御性国防政策。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-5-choice-6",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "习近平强军思想中强调的人民军队建军之本、强军之魂是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "党对人民军队的绝对领导"
+      },
+      {
+        "key": "B",
+        "text": "科技创新"
+      },
+      {
+        "key": "C",
+        "text": "作战能力"
+      },
+      {
+        "key": "D",
+        "text": "武器装备现代化"
+      }
+    ],
+    "answer": "A",
+    "explanation": "党对人民军队的绝对领导是人民军队建军之本、强军之魂。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-5-choice-7",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "习近平强军思想明确的强军之道要在？",
+    "options": [
+      {
+        "key": "A",
+        "text": "得人"
+      },
+      {
+        "key": "B",
+        "text": "得预算"
+      },
+      {
+        "key": "C",
+        "text": "得装备"
+      },
+      {
+        "key": "D",
+        "text": "得地理"
+      }
+    ],
+    "answer": "A",
+    "explanation": "强军之道要在得人，必须贯彻新时代军事教育方针，锻造德才 兼备的高素质专业化新型军事人才。"
+  },
+  {
+    "id": "chapter-5-choice-8",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "从政治层面看，战争的本质是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治的继续，是社会政治矛盾极端尖锐化而爆发的暴力斗争"
+      },
+      {
+        "key": "B",
+        "text": "经济的集中体现"
+      },
+      {
+        "key": "C",
+        "text": "保存自己消灭敌人"
+      },
+      {
+        "key": "D",
+        "text": "军事力量的博弈"
+      }
+    ],
+    "answer": "A",
+    "explanation": "从政治层面看，战争是政治的继续，是社会政治矛盾极端尖锐 化而爆发的暴力斗争。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-5-choice-9",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "从军事层面看，各种类型与规模的战争本质都是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "政治的继续"
+      },
+      {
+        "key": "B",
+        "text": "保存自己消灭敌人"
+      },
+      {
+        "key": "C",
+        "text": "经济利益的争夺"
+      },
+      {
+        "key": "D",
+        "text": "领土的扩张"
+      }
+    ],
+    "answer": "B",
+    "explanation": "从军事层面看，各种类型、各种规模的战争的本质都是保存自 己消灭敌人。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-5-blank-1",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "军事思想的基本特征包括六项：______、______、______、______、继承 性、创造性。",
+    "answer": [
+      "政治性",
+      "实践性",
+      "时代性",
+      "民族性"
+    ],
+    "explanation": "六大特征需完整记忆。"
+  },
+  {
+    "id": "chapter-5-blank-2",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "《孙子兵法》作者是______时期伟大军事家孙武。",
+    "answer": [
+      "春秋"
+    ],
+    "explanation": "孙武是春秋时期军事家。",
+    "memoryHint": "高频必背：春秋"
+  },
+  {
+    "id": "chapter-5-blank-3",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "中国古代军事思想代表作包括：______思想；知己知彼______的战争指导 思想；以______制胜为核心的用兵思想；文武兼施恩威并用的治军思想； ______和 原始辩证法思想。",
+    "answer": [
+      "重战慎战备战",
+      "百战不殆",
+      "谋略",
+      "朴素唯物论"
+    ],
+    "explanation": "五大代表作需完整 记忆。",
+    "memoryHint": "高频必背：重战慎战备战 / 百战不殆 / 谋略 / 朴素唯物论"
+  },
+  {
+    "id": "chapter-5-blank-4",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "毛泽东军事思想的主要内容包括：战争观和 ______论；______思想；人民 战争思想；人民战争的战略战术思想；国防建设思想：实行______战略方针。",
+    "answer": [
+      "军事方法",
+      "人民军队",
+      "积极防御"
+    ],
+    "explanation": "五项主要内容需完整记忆。"
+  },
+  {
+    "id": "chapter-5-blank-5",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "习近平强军思想中明 确的党在新时 代的强军目标是建设一 支 ______、 ______、______的人民军队。",
+    "answer": [
+      "听党指挥",
+      "能打胜仗",
+      "作风优良"
+    ],
+    "explanation": "强军目标三句话需准确记忆。",
+    "memoryHint": "高频必背：听党指挥 / 能打胜仗 / 作风优良"
+  },
+  {
+    "id": "chapter-5-blank-6",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "习近平强军思想中提出的三 步走目标：到______年实现建军一百年奋斛目 标，到______年基本实现国防和军队现代化，到本世纪中叶把人民军队建成 ______ 军队。",
+    "answer": [
+      "2027",
+      "2035",
+      "世界一流"
+    ],
+    "explanation": "三个年代节点需准确记忆。",
+    "memoryHint": "高频必背：2027 / 2035 / 世界一流"
+  },
+  {
+    "id": "chapter-5-blank-7",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "战争的本 质可 以从三个 层面考 察：从 ______层面看是政治的 继续 ；从 ______层面看与经济基础密切联系；从______层面看是保存自己消灭敌人。",
+    "answer": [
+      "政治",
+      "经济",
+      "军事"
+    ],
+    "explanation": "三层面考察是战争本质的核心框架。",
+    "memoryHint": "高频必背：政治 / 经济 / 军事"
+  },
+  {
+    "id": "chapter-5-blank-8",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "习近平强军思想明 确，推进强军事 业必须坚持 政治建军、 ______强军、 ______强军、______强军、依法治军。",
+    "answer": [
+      "改革",
+      "科技",
+      "人才"
+    ],
+    "explanation": "五个强军路径需完整记忆。"
+  },
+  {
+    "id": "chapter-5-blank-9",
+    "chapterId": "chapter-5",
+    "chapterTitle": "第五章 军事思想",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "习近平强军思想明确，______是核心战斗力，必须坚持______创新战略基 点。",
+    "answer": [
+      "科技",
+      "自主"
+    ],
+    "explanation": "科技是核心战斗力是重要论断。"
+  },
+  {
+    "id": "chapter-6-choice-1",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "战争通常表现为哪三种特征？",
+    "options": [
+      {
+        "key": "A",
+        "text": "激烈的暴力对抗、快速地流动变化、充满盖然性或偶然性"
+      },
+      {
+        "key": "B",
+        "text": "平静对峙、缓慢变化、完全可预测"
+      },
+      {
+        "key": "C",
+        "text": "非暴力、稳定、结构化"
+      },
+      {
+        "key": "D",
+        "text": "局部冲突、长期对峙、结果不确定"
+      }
+    ],
+    "answer": "A",
+    "explanation": "战争通常表现为激烈的暴力对抗、快速地流动变化、充满盖然 性或偶然性。"
+  },
+  {
+    "id": "chapter-6-choice-2",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "新军事革命的核心是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "机械化"
+      },
+      {
+        "key": "B",
+        "text": "信息化"
+      },
+      {
+        "key": "C",
+        "text": "智能化"
+      },
+      {
+        "key": "D",
+        "text": "数字化"
+      }
+    ],
+    "answer": "B",
+    "explanation": "新军事革命是 20 世纪末期以来在世界范围内发生的一场以信息 化为核心的全面而深刻的军事革命。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-6-choice-3",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "新军事革命的主要标志不包括？",
+    "options": [
+      {
+        "key": "A",
+        "text": "信息化武器系统逐渐主宰战场"
+      },
+      {
+        "key": "B",
+        "text": "出现知识密集型的信息化军队"
+      },
+      {
+        "key": "C",
+        "text": "一体化联合作战成为基本作战形式"
+      },
+      {
+        "key": "D",
+        "text": "机械化战争完全取代信息化战争"
+      }
+    ],
+    "answer": "D",
+    "explanation": "新军事革命的标志应是信息化战争最终取代机械化战争，而不 是机械化取代信息化。"
+  },
+  {
+    "id": "chapter-6-choice-4",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "中国特色军事变革的发展方向是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "机械化"
+      },
+      {
+        "key": "B",
+        "text": "信息化"
+      },
+      {
+        "key": "C",
+        "text": "智能化"
+      },
+      {
+        "key": "D",
+        "text": "常规化"
+      }
+    ],
+    "answer": "B",
+    "explanation": "中国特色军事变革发展方向是信息化，基本目标是建设信息化 军队。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-6-choice-5",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "中国特色军事变革的基本途径是？",
+    "options": [
+      {
+        "key": "A",
+        "text": "机械化与信息化复合发展"
+      },
+      {
+        "key": "B",
+        "text": "单纯发展信息化"
+      },
+      {
+        "key": "C",
+        "text": "单纯发展机械化"
+      },
+      {
+        "key": "D",
+        "text": "完全依赖引进装备"
+      }
+    ],
+    "answer": "A",
+    "explanation": "中国特色军事变革的基本途径是机械化与信息化复合发展。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-6-choice-6",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于机械化战争的基本特征？",
+    "options": [
+      {
+        "key": "A",
+        "text": "机动速度快"
+      },
+      {
+        "key": "B",
+        "text": "火力毁伤重"
+      },
+      {
+        "key": "C",
+        "text": "战场范围广"
+      },
+      {
+        "key": "D",
+        "text": "信息主宰战场"
+      }
+    ],
+    "answer": "D",
+    "explanation": "机械化战争特征包括机动速度快、火力毁伤重、战场范围广、 战争消耗大，不包括信息主宰战场。"
+  },
+  {
+    "id": "chapter-6-choice-7",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "信息化战争是哪个时代战争的基本形态？",
+    "options": [
+      {
+        "key": "A",
+        "text": "工业时代"
+      },
+      {
+        "key": "B",
+        "text": "信息时代"
+      },
+      {
+        "key": "C",
+        "text": "农业时代"
+      },
+      {
+        "key": "D",
+        "text": "智能时代"
+      }
+    ],
+    "answer": "B",
+    "explanation": "信息化战争是信息时代战争的基本形态。",
+    "memoryHint": "高频必背：B"
+  },
+  {
+    "id": "chapter-6-blank-1",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "战争通常表现为三种特征：激烈的______对抗，快速地______变化，充满 ______或偶然性。",
+    "answer": [
+      "暴力",
+      "流动",
+      "盖然性"
+    ],
+    "explanation": "三大特征需完整记忆。"
+  },
+  {
+    "id": "chapter-6-blank-2",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新军事革命是 20 世纪末期以来在世界范围内发生的一场以______为核心的 全面而深刻的军事革命。",
+    "answer": [
+      "信息化"
+    ],
+    "explanation": "信息化是新军事革命的核心。",
+    "memoryHint": "高频必背：信息化"
+  },
+  {
+    "id": "chapter-6-blank-3",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "新军事革命的主要标志包括：信息化武器系统逐渐主宰战场，出现知识密 集型的______军队，______成为基本作战形式，军事理论及其体系彻底革新，信息 化战争最终取代______战争。",
+    "answer": [
+      "信息化",
+      "一体化联合作战",
+      "机械化"
+    ],
+    "explanation": "五大标志需完整记忆。"
+  },
+  {
+    "id": "chapter-6-blank-4",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "中国特色军事变革六要素：发展方向是______；基本目标是建设______军 队；基本途径是机械化与信息化______发展；发展步骤与______发展战略相适应； 根本动力是______创新；根本保证是坚持中国共产党的______领导。",
+    "answer": [
+      "信息化",
+      "信息化",
+      "复合",
+      "国家",
+      "改革",
+      "绝对"
+    ],
+    "explanation": "六要素需完整记忆。",
+    "memoryHint": "高频必背：信息化 / 信息化 / 复合 / 国家 / 改革 / 绝对"
+  },
+  {
+    "id": "chapter-6-blank-5",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "机械化战争的基本特征包括四项：______速度快；火力______重；战场范 围广；战争消耗大。",
+    "answer": [
+      "机动",
+      "毁伤"
+    ],
+    "explanation": "四大特征需完整记忆。"
+  },
+  {
+    "id": "chapter-6-blank-6",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "信息化战争是依托______系统，使用信息化武器装备及相应作战方法，在 陆、海、空、天和网络电磁等空间及______领域进行的以体系对抗为主要形式的战 争。",
+    "answer": [
+      "网络化信息",
+      "认知"
+    ],
+    "explanation": "信息化战争定义需准确记忆。",
+    "memoryHint": "高频必背：网络化信息 / 认知"
+  },
+  {
+    "id": "chapter-6-blank-7",
+    "chapterId": "chapter-6",
+    "chapterTitle": "第六章 新军事革命与信息化战争",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "信息化战争的五大基本特征：信息化武器装备系统成为战场______；信息 成为战斗力的______；战场网络化、一体化；一体化 联合作战成为______作战形式； 制信息权成为争夺的______。",
+    "answer": [
+      "主导",
+      "倍增器",
+      "基本",
+      "制高点"
+    ],
+    "explanation": "五大特征需完整记忆。",
+    "memoryHint": "高频必背：主导 / 倍增器 / 基本 / 制高点"
+  },
+  {
+    "id": "chapter-7-choice-1",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "信息化装备按功能可分为哪两大类？",
+    "options": [
+      {
+        "key": "A",
+        "text": "信息化主战武器系统和信息系统"
+      },
+      {
+        "key": "B",
+        "text": "进攻装备和防御装备"
+      },
+      {
+        "key": "C",
+        "text": "陆圿装备和海空装备"
+      },
+      {
+        "key": "D",
+        "text": "传统装备和现代装备"
+      }
+    ],
+    "answer": "A",
+    "explanation": "信息化装备按功能可分为信息化主战武器系统和信息系统两大 类。"
+  },
+  {
+    "id": "chapter-7-choice-2",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "从作战体系的角度，信息化装备可细分为哪三类？",
+    "options": [
+      {
+        "key": "A",
+        "text": "信息化作战平台、指挥信息系统、信息化杀伤武器"
+      },
+      {
+        "key": "B",
+        "text": "陆军装备、海军装备、空军装备"
+      },
+      {
+        "key": "C",
+        "text": "进攻装备、防御装备、支援装备"
+      },
+      {
+        "key": "D",
+        "text": "传感器、处理器、执行器"
+      }
+    ],
+    "answer": "A",
+    "explanation": "从作战体系角度可细分为信息化作战平台、指挥信息系统、信 息化杀伤武器三类。"
+  },
+  {
+    "id": "chapter-7-choice-3",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "信息化作战平台主要包括哪些？",
+    "options": [
+      {
+        "key": "A",
+        "text": "陆海空战武器平台"
+      },
+      {
+        "key": "B",
+        "text": "仅包括陆军装备"
+      },
+      {
+        "key": "C",
+        "text": "仅包括海军装备"
+      },
+      {
+        "key": "D",
+        "text": "仅包括太空装备"
+      }
+    ],
+    "answer": "A",
+    "explanation": "信息化作战平台主要包括陆海空战武器平台。"
+  },
+  {
+    "id": "chapter-7-choice-4",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "下列哪项不属于空战武器平台？",
+    "options": [
+      {
+        "key": "A",
+        "text": "战斗机"
+      },
+      {
+        "key": "B",
+        "text": "轰炸机"
+      },
+      {
+        "key": "C",
+        "text": "电子战飞机"
+      },
+      {
+        "key": "D",
+        "text": "坦克"
+      }
+    ],
+    "answer": "D",
+    "explanation": "空战武器平台包括战斗机、轰炸机、电子战飞机、运输机，不 包括坦克。"
+  },
+  {
+    "id": "chapter-7-choice-5",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "指挥信息系统以什么为核心？",
+    "options": [
+      {
+        "key": "A",
+        "text": "计算机网络"
+      },
+      {
+        "key": "B",
+        "text": "通信卫星"
+      },
+      {
+        "key": "C",
+        "text": "雷达系统"
+      },
+      {
+        "key": "D",
+        "text": "人工智能"
+      }
+    ],
+    "answer": "A",
+    "explanation": "指挥信息系统以计算机网络为核心，由指挥控制、情报、通信、 信息对抗、综合保障等分系统组成。",
+    "memoryHint": "高频必背：A"
+  },
+  {
+    "id": "chapter-7-choice-6",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于指挥信息系统中十分重要的分系统？",
+    "options": [
+      {
+        "key": "A",
+        "text": "指挥控制系统"
+      },
+      {
+        "key": "B",
+        "text": "情报系统"
+      },
+      {
+        "key": "C",
+        "text": "通信系统"
+      },
+      {
+        "key": "D",
+        "text": "后勤保障系统"
+      }
+    ],
+    "answer": "D",
+    "explanation": "指挥控制系统、情报系统、通信系统和导航定位系统具有十分 重要的作用，不包括后勤保障系统。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-7-choice-7",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "指挥控制系统按级别分为哪三级？",
+    "options": [
+      {
+        "key": "A",
+        "text": "战略级、战役级、战术级"
+      },
+      {
+        "key": "B",
+        "text": "国家级、军区级、部队级"
+      },
+      {
+        "key": "C",
+        "text": "高级、中级、初级"
+      },
+      {
+        "key": "D",
+        "text": "总部级、分部级、基层级"
+      }
+    ],
+    "answer": "A",
+    "explanation": "指挥控制系统分为战略级、战役级、战术级三级。"
+  },
+  {
+    "id": "chapter-7-choice-8",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 2,
+    "prompt": "情报系统不包括哪部分？",
+    "options": [
+      {
+        "key": "A",
+        "text": "侦查监视系统"
+      },
+      {
+        "key": "B",
+        "text": "预警探测系统"
+      },
+      {
+        "key": "C",
+        "text": "情报处理中心"
+      },
+      {
+        "key": "D",
+        "text": "武器控制系统"
+      }
+    ],
+    "answer": "D",
+    "explanation": "情报系统包括侦查监视系统、预警探测系统、情报处理中心， 不包括武器控制系统。"
+  },
+  {
+    "id": "chapter-7-choice-9",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "single_choice",
+    "starLevel": 3,
+    "prompt": "下列哪项不属于导航定位系统？",
+    "options": [
+      {
+        "key": "A",
+        "text": "GPS 系统"
+      },
+      {
+        "key": "B",
+        "text": "GLONASS 系统"
+      },
+      {
+        "key": "C",
+        "text": "北斗系统"
+      },
+      {
+        "key": "D",
+        "text": "雷达系统"
+      }
+    ],
+    "answer": "D",
+    "explanation": "导航定位系统包括 GPS 系统、GLONASS 系统、北斗系统，不 包括雷达系统。",
+    "memoryHint": "高频必背：D"
+  },
+  {
+    "id": "chapter-7-blank-1",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "信息化装备按功能可分为______和______两大类。",
+    "answer": [
+      "信息化主战武器系统",
+      "信息系统"
+    ],
+    "explanation": "两大功能分类需准确记忆。"
+  },
+  {
+    "id": "chapter-7-blank-2",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "从作战体系角度，信息化装备可细分为：信息化______、______和信息化 ______。",
+    "answer": [
+      "作战平台",
+      "指挥信息系统",
+      "杀伤武器"
+    ],
+    "explanation": "三大作战体系分类需完整记 忆。"
+  },
+  {
+    "id": "chapter-7-blank-3",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "信息化作战平台主要包括陆、海、空战______。",
+    "answer": [
+      "武器平台"
+    ],
+    "explanation": "作战平台包括陆海空战武器平台。"
+  },
+  {
+    "id": "chapter-7-blank-4",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "空战武器平台包括四类：______、______、______和运输机。",
+    "answer": [
+      "战斗机",
+      "轰炸机",
+      "电子战飞机"
+    ],
+    "explanation": "四类空战平台需完整记忆。"
+  },
+  {
+    "id": "chapter-7-blank-5",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "指挥信息系统以______为核心，由指挥控制、情报、通信、信息对抗、综 合保障等分系统组成。",
+    "answer": [
+      "计算机网络"
+    ],
+    "explanation": "计算机网络是指挥信息系统的核心。",
+    "memoryHint": "高频必背：计算机网络"
+  },
+  {
+    "id": "chapter-7-blank-6",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "在构成指挥信息系统的诸多分系统中，具有十分重要作用的四个分系统是： ______系统、______系统、______系统和导航定位系统。",
+    "answer": [
+      "指挥控制",
+      "情报",
+      "通信"
+    ],
+    "explanation": "四大重要分系统需完整记忆。",
+    "memoryHint": "高频必背：指挥控制 / 情报 / 通信"
+  },
+  {
+    "id": "chapter-7-blank-7",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "指挥控制系统分为三级：______级、______级、______级指挥控制系统。",
+    "answer": [
+      "战略",
+      "战役",
+      "战术"
+    ],
+    "explanation": "三级分类需准确记忆。"
+  },
+  {
+    "id": "chapter-7-blank-8",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "情报系统包括：侦查______系统；预警______系统；情报处理中心。",
+    "answer": [
+      "监视",
+      "探测"
+    ],
+    "explanation": "情报系统三部分需完整记忆。"
+  },
+  {
+    "id": "chapter-7-blank-9",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 2,
+    "prompt": "通信系统包括：通信______；______设备；用户终端设备。",
+    "answer": [
+      "信道",
+      "交换"
+    ],
+    "explanation": "通信系统三部分需完整记忆。"
+  },
+  {
+    "id": "chapter-7-blank-10",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "导航定位系统包括三大系统：______系统、______系统、北斗系统。",
+    "answer": [
+      "GPS",
+      "GLONASS"
+    ],
+    "explanation": "三大导航定位系统需完整记忆，北斗是中国自 主建设的系统。",
+    "memoryHint": "高频必背：GPS / GLONASS"
+  },
+  {
+    "id": "chapter-7-blank-11",
+    "chapterId": "chapter-7",
+    "chapterTitle": "第七章 信息化装备",
+    "type": "fill_blank",
+    "starLevel": 3,
+    "prompt": "新概念武器包括五类：激光技术和______武器、______武器、______武器、 动能武器、______武器。",
+    "answer": [
+      "激光",
+      "微波",
+      "粒子束",
+      "非致命"
+    ],
+    "explanation": "五类新概念武器需完整记忆。",
+    "memoryHint": "高频必背：激光 / 微波 / 粒子束 / 非致命"
+  }
+]
