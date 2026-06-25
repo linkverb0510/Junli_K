@@ -51,10 +51,14 @@ export function QuestionCard({
   onFavorite,
 }: QuestionCardProps) {
   const [answerExpanded, setAnswerExpanded] = useState(true);
+  const [showExplanation, setShowExplanation] = useState(false);
 
   // 确定答案面板的正确/错误状态
   const isAnswerCorrect = submissionResult === "correct" || 
     (submissionResult === null && blankGrade?.result === "correct");
+
+  // 是否显示答案面板
+  const shouldShowAnswer = revealAnswer || showExplanation;
 
   return (
     <article className={`question-card-wrapper ${slideDirection === "left" ? "slide-left" : ""}`}>
@@ -174,15 +178,27 @@ export function QuestionCard({
           </div>
         )}
 
+        {/* 查看解析按钮（已做过的题目） */}
+        {!revealAnswer && progress?.status !== "unseen" && (
+          <button
+            type="button"
+            className="ghost-button"
+            onClick={() => setShowExplanation(true)}
+            style={{ marginTop: "16px" }}
+          >
+            📖 查看解析
+          </button>
+        )}
+
         {/* 答案面板 (A4: 折叠) */}
-        {revealAnswer && (
+        {shouldShowAnswer && (
           <section className="answer-panel">
             <div
               className={`answer-panel-header ${isAnswerCorrect ? "correct" : "wrong"}`}
               onClick={() => setAnswerExpanded(!answerExpanded)}
             >
               <span>
-                {isAnswerCorrect ? "✓ 回答正确" : "✗ 回答错误"} · {answerExpanded ? "收起答案" : "点击查看答案与解析"}
+                {revealAnswer ? (isAnswerCorrect ? "✓ 回答正确" : "✗ 回答错误") : "📖 答案解析"} · {answerExpanded ? "收起答案" : "点击查看答案与解析"}
               </span>
               <span className="toggle-icon">{answerExpanded ? "▴" : "▾"}</span>
             </div>
