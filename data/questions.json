@@ -5991,11 +5991,210 @@
     "sourceKind": "2018_exam"
   },
   {
-    "id": "quiz7-choice-1",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-1",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "目前我国义务兵服役的期限为。",
+    "prompt": "《孙子兵法》的作者是",
+    "options": [
+      {
+        "key": "A",
+        "text": "孙武"
+      },
+      {
+        "key": "B",
+        "text": "诸葛亮"
+      },
+      {
+        "key": "C",
+        "text": "孙膑"
+      },
+      {
+        "key": "D",
+        "text": "司马迁"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案为A。孙武。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-2",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "国防的基本要素有哪些是",
+    "options": [
+      {
+        "key": "A",
+        "text": "国防的主体、国防政策、国防的手段、国防的对象、国防的基本类型。"
+      },
+      {
+        "key": "B",
+        "text": "国\n防的主体、国防的目的、国防的手段、国防的对象、国防的基本类型。"
+      },
+      {
+        "key": "C",
+        "text": "国防的主体、国防的政策、国防\n的手段、国防的对象 。"
+      },
+      {
+        "key": "D",
+        "text": "国防的主体、国防的目的、国防的手段、国防的对象。"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案为B。国\n防的主体、国防的目的、国防的手段、国防的对象、国防的基本类型。。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-3",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "国防的基本类型",
+    "options": [
+      {
+        "key": "A",
+        "text": "扩张型、侵略型、联盟型和中立型"
+      },
+      {
+        "key": "B",
+        "text": "扩张型、自卫型、联盟型和中立型"
+      },
+      {
+        "key": "C",
+        "text": "侵略型、\n自卫型、结盟型和中立型"
+      },
+      {
+        "key": "D",
+        "text": "攻击型、防守型、联盟型和中立型"
+      }
+    ],
+    "answer": "B",
+    "explanation": "正确答案为B。扩张型、自卫型、联盟型和中立型。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-4",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "是我军永远不变的军魂",
+    "options": [
+      {
+        "key": "A",
+        "text": "始终跟党走、听党指挥"
+      },
+      {
+        "key": "B",
+        "text": "全心全意为人民服务"
+      },
+      {
+        "key": "C",
+        "text": "永远听党的话"
+      },
+      {
+        "key": "D",
+        "text": "党对军队\n的绝对领导"
+      }
+    ],
+    "answer": "D",
+    "explanation": "正确答案为D。党对军队\n的绝对领导。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-5",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "孙子谋略制胜的用兵思想突出体现在哪些方面？（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "妙算制胜"
+      },
+      {
+        "key": "B",
+        "text": "诡道制胜"
+      },
+      {
+        "key": "C",
+        "text": "不战而自败"
+      },
+      {
+        "key": "D",
+        "text": "不战而\n屈人之兵"
+      }
+    ],
+    "answer": "ABD",
+    "explanation": "正确答案为ABD。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-6",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "胡锦涛国防和军队建设理论的主要内容包括哪几个部分？",
+    "options": [
+      {
+        "key": "A",
+        "text": "加强军队思想政治建设，强化部队战斗精神\n；"
+      },
+      {
+        "key": "B",
+        "text": "认真履行使命，统筹军队全面建设，打赢信息化战争；"
+      },
+      {
+        "key": "C",
+        "text": "弘扬求真务实精神，坚持依法从严治军；"
+      },
+      {
+        "key": "D",
+        "text": "坚持国防建设与军队建设协调发展。E、坚持国防建设与经济建设协调发展"
+      }
+    ],
+    "answer": "ABCD",
+    "explanation": "正确答案为ABCD。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-7",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "我军把坚持党对军队的绝对领导，作为军队政治工作的（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "重点内容"
+      },
+      {
+        "key": "B",
+        "text": "核心内容"
+      },
+      {
+        "key": "C",
+        "text": "根本任务"
+      }
+    ],
+    "answer": "C",
+    "explanation": "正确答案为C。根本任务。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-8",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "目前我国义务兵服役的期限为（ ）。",
     "options": [
       {
         "key": "A",
@@ -6015,103 +6214,16 @@
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。2年。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-2",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-9",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "南昌起义标志着人民军队的诞生，它发生在哪一天。",
-    "options": [
-      {
-        "key": "A",
-        "text": "1921.7.1"
-      },
-      {
-        "key": "B",
-        "text": "1921.8.1"
-      },
-      {
-        "key": "C",
-        "text": "1927.7.1"
-      },
-      {
-        "key": "D",
-        "text": "1927.8.1"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-3",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "“功盖三分国，名成八阵图。江流石不转，遗恨失吞吴。”一诗中描述的是谁。",
-    "options": [
-      {
-        "key": "A",
-        "text": "刘备"
-      },
-      {
-        "key": "B",
-        "text": "诸葛亮"
-      },
-      {
-        "key": "C",
-        "text": "孙武"
-      },
-      {
-        "key": "D",
-        "text": "曹操"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-4",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "毛泽东是一位伟大的军事家，撰写了大量的军事著作，下列哪一部不是毛泽东所著。",
-    "options": [
-      {
-        "key": "A",
-        "text": "《论持久战》"
-      },
-      {
-        "key": "B",
-        "text": "《战争和战略问题》"
-      },
-      {
-        "key": "C",
-        "text": "《战争论》"
-      },
-      {
-        "key": "D",
-        "text": "《星星之火，可以燎原》"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-5",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "大国实力地位的变化导致国际战略格局的演变，当今国际战略格局的样式是。",
+    "prompt": "大国实力地位的变化导致国际战略格局的演变，当今国际战略格局的样式是（ ）。",
     "options": [
       {
         "key": "A",
@@ -6119,7 +6231,7 @@
       },
       {
         "key": "B",
-        "text": "两极格局"
+        "text": "两极\n格局"
       },
       {
         "key": "C",
@@ -6131,161 +6243,16 @@
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。一超多强。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-6",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-10",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "目前我国边界地区存在划界争端的主要是在哪里。",
-    "options": [
-      {
-        "key": "A",
-        "text": "中俄边界"
-      },
-      {
-        "key": "B",
-        "text": "中印边界"
-      },
-      {
-        "key": "C",
-        "text": "中越边界"
-      },
-      {
-        "key": "D",
-        "text": "中朝边界"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-7",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "1991年海湾战争中，哪种防空导弹成功地拦截住了伊拉克的“飞毛腿”导弹。",
-    "options": [
-      {
-        "key": "A",
-        "text": "“毒刺”"
-      },
-      {
-        "key": "B",
-        "text": "“海麻雀”"
-      },
-      {
-        "key": "C",
-        "text": "“海响尾蛇”"
-      },
-      {
-        "key": "D",
-        "text": "“爱国者”"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-8",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "隐身战术已经广泛应用于现代作战飞机，下列哪种型号的飞机不是隐身飞机。",
-    "options": [
-      {
-        "key": "A",
-        "text": "B-2"
-      },
-      {
-        "key": "B",
-        "text": "B-52"
-      },
-      {
-        "key": "C",
-        "text": "F-22"
-      },
-      {
-        "key": "D",
-        "text": "F-117"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-9",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "下列哪个国家目前还没有拥有核武器。",
-    "options": [
-      {
-        "key": "A",
-        "text": "巴基斯坦"
-      },
-      {
-        "key": "B",
-        "text": "印度"
-      },
-      {
-        "key": "C",
-        "text": "日本"
-      },
-      {
-        "key": "D",
-        "text": "朝鲜"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-10",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "信息化战争使战争进程大大缩短，1999年的科索沃战争共进行了多少天。",
-    "options": [
-      {
-        "key": "A",
-        "text": "18天"
-      },
-      {
-        "key": "B",
-        "text": "42天"
-      },
-      {
-        "key": "C",
-        "text": "44天"
-      },
-      {
-        "key": "D",
-        "text": "78天"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-11",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中华人民共和国领海面积达万平方公里。",
+    "prompt": "中华人民共和国领海面积达（ ）万平方公里。",
     "options": [
       {
         "key": "A",
@@ -6305,16 +6272,16 @@
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。300。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-12",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-11",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "我国属于国防。",
+    "prompt": "我国属于（ ）国防。",
     "options": [
       {
         "key": "A",
@@ -6334,16 +6301,16 @@
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。自卫型。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-13",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-12",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "《孙子兵法》是我国历史上经典的军事著作，作者孙武所属年代是。",
+    "prompt": "《孙子兵法》是我国历史上经典的军事著作，作者孙武所属年代是（ ）。",
     "options": [
       {
         "key": "A",
@@ -6363,103 +6330,16 @@
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。春秋末年。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-14",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-13",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "当今世界格局总体情况是。",
-    "options": [
-      {
-        "key": "A",
-        "text": "两极格局"
-      },
-      {
-        "key": "B",
-        "text": "一超独霸"
-      },
-      {
-        "key": "C",
-        "text": "一超多强"
-      },
-      {
-        "key": "D",
-        "text": "多超多强"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-15",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "与我国接壤的国家有个。",
-    "options": [
-      {
-        "key": "A",
-        "text": "11"
-      },
-      {
-        "key": "B",
-        "text": "12"
-      },
-      {
-        "key": "C",
-        "text": "13"
-      },
-      {
-        "key": "D",
-        "text": "14年"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-16",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "世界上最早提出“信息战”的是。",
-    "options": [
-      {
-        "key": "A",
-        "text": "拿破仑"
-      },
-      {
-        "key": "B",
-        "text": "毛泽东"
-      },
-      {
-        "key": "C",
-        "text": "克劳塞维茨"
-      },
-      {
-        "key": "D",
-        "text": "沈伟光"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-17",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我国“全民国防教育日”是每年九月。",
+    "prompt": "我国“全民国防教育日”是每年九月（ ）。",
     "options": [
       {
         "key": "A",
@@ -6475,281 +6355,20 @@
       },
       {
         "key": "D",
-        "text": "第四个星期六"
+        "text": "第\n四个星期六"
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。第三个星期六。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-18",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-14",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "1994年11月16日生效的《联合国海洋法公约》约定，主权国可以划出公里的专属经济区。",
-    "options": [
-      {
-        "key": "A",
-        "text": "100"
-      },
-      {
-        "key": "B",
-        "text": "200"
-      },
-      {
-        "key": "C",
-        "text": "300"
-      },
-      {
-        "key": "D",
-        "text": "400"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-19",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "第四十一届世博会于2010年5月1日在如期开馆。",
-    "options": [
-      {
-        "key": "A",
-        "text": "北京"
-      },
-      {
-        "key": "B",
-        "text": "上海"
-      },
-      {
-        "key": "C",
-        "text": "杭州"
-      },
-      {
-        "key": "D",
-        "text": "广州"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-20",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "2010年5月12日是举世震惊的汶川特大地震周年纪念日，全国各地举办纪念活动，悼念逝者，展望未来。",
-    "options": [
-      {
-        "key": "A",
-        "text": "一"
-      },
-      {
-        "key": "B",
-        "text": "二"
-      },
-      {
-        "key": "C",
-        "text": "三"
-      },
-      {
-        "key": "D",
-        "text": "四"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-21",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中国人民解放军海军组建于哪一天，每年的这一天也被定为我国的海军节。",
-    "options": [
-      {
-        "key": "A",
-        "text": "1949.4.23"
-      },
-      {
-        "key": "B",
-        "text": "1949.11.11"
-      },
-      {
-        "key": "C",
-        "text": "1950.4.14"
-      },
-      {
-        "key": "D",
-        "text": "1950.8.1"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-22",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "当今世界上战略格局的样式是“一超多强”，下列哪个国家上不属于“多强”的行为。",
-    "options": [
-      {
-        "key": "A",
-        "text": "中国"
-      },
-      {
-        "key": "B",
-        "text": "印度"
-      },
-      {
-        "key": "C",
-        "text": "德国"
-      },
-      {
-        "key": "D",
-        "text": "日本"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-23",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "下列哪一个国家是我国的陆上邻国。",
-    "options": [
-      {
-        "key": "A",
-        "text": "日本"
-      },
-      {
-        "key": "B",
-        "text": "白俄罗斯"
-      },
-      {
-        "key": "C",
-        "text": "伊朗"
-      },
-      {
-        "key": "D",
-        "text": "阿富汗"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-24",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "发射火箭升空需要达到第一宇宙速度才能克服地球引力，这个速度为。",
-    "options": [
-      {
-        "key": "A",
-        "text": "7.9千米/秒"
-      },
-      {
-        "key": "B",
-        "text": " 9.7千米/秒"
-      },
-      {
-        "key": "C",
-        "text": " 11.2千米/秒"
-      },
-      {
-        "key": "D",
-        "text": " 16.7千米/秒"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-25",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我国目前已建成了三个卫星发射中心，下列哪一个地方不是。",
-    "options": [
-      {
-        "key": "A",
-        "text": "太原"
-      },
-      {
-        "key": "B",
-        "text": "西安"
-      },
-      {
-        "key": "C",
-        "text": "西昌"
-      },
-      {
-        "key": "D",
-        "text": "酒泉"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-26",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "高技术战争使战争进程大大缩短，2003年发生的伊拉克战争共进行了多少天。",
-    "options": [
-      {
-        "key": "A",
-        "text": "18"
-      },
-      {
-        "key": "B",
-        "text": "42"
-      },
-      {
-        "key": "C",
-        "text": "44"
-      },
-      {
-        "key": "D",
-        "text": "78"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-27",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "高技术战争形成的标志是。",
+    "prompt": "高技术战争形成的标志是（ ）。",
     "options": [
       {
         "key": "A",
@@ -6769,712 +6388,16 @@
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。海湾战争。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-28",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-15",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "下列不属于我国海军五大兵种的是。",
-    "options": [
-      {
-        "key": "A",
-        "text": "潜艇部队"
-      },
-      {
-        "key": "B",
-        "text": "陆战队"
-      },
-      {
-        "key": "C",
-        "text": "电子对抗队"
-      },
-      {
-        "key": "D",
-        "text": "岸防兵"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-29",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "冷战结束后，世界各主要大国都在调整安全观，印度主张的是安全观是。",
-    "options": [
-      {
-        "key": "A",
-        "text": "绝对安全"
-      },
-      {
-        "key": "B",
-        "text": "制衡安全"
-      },
-      {
-        "key": "C",
-        "text": "借伞安全"
-      },
-      {
-        "key": "D",
-        "text": "互信与合作安全"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-30",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "对抗红外制导的导弹采用下列哪种干扰最直接有效。",
-    "options": [
-      {
-        "key": "A",
-        "text": "通信干扰"
-      },
-      {
-        "key": "B",
-        "text": "雷达干扰"
-      },
-      {
-        "key": "C",
-        "text": "光电干扰"
-      },
-      {
-        "key": "D",
-        "text": "计算机病毒干扰"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-31",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "《孙子兵法》十三篇中的哪一篇论述了慎战思想。",
-    "options": [
-      {
-        "key": "A",
-        "text": "《计篇》"
-      },
-      {
-        "key": "B",
-        "text": "《作战篇》"
-      },
-      {
-        "key": "C",
-        "text": "《火攻篇》"
-      },
-      {
-        "key": "D",
-        "text": "《军争篇》"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-32",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "GPS卫星导航定位系统至少需要几颗卫星才能准确进行定位。",
-    "options": [
-      {
-        "key": "A",
-        "text": "两颗"
-      },
-      {
-        "key": "B",
-        "text": "三颗"
-      },
-      {
-        "key": "C",
-        "text": "四颗"
-      },
-      {
-        "key": "D",
-        "text": "五颗"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-33",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "空袭报警发出后，民众必须迅速疏散隐蔽，怎样判断空袭报警的声响。",
-    "options": [
-      {
-        "key": "A",
-        "text": "呜6秒6停6秒"
-      },
-      {
-        "key": "B",
-        "text": " 呜6秒6停6秒"
-      },
-      {
-        "key": "C",
-        "text": " 呜6秒6停6秒"
-      },
-      {
-        "key": "D",
-        "text": " 呜6秒6停6秒"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-34",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "当代高技术包含了信息技术群、新材料技术群、新能源技术群、生物技术群、海洋技术群和航天技术群，其中基础是",
-    "options": [
-      {
-        "key": "A",
-        "text": "新能源技术群"
-      },
-      {
-        "key": "B",
-        "text": "信息技术群"
-      },
-      {
-        "key": "C",
-        "text": "新材料技术群"
-      },
-      {
-        "key": "D",
-        "text": "生物技术群"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-35",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "高技术武器装备的运用大大扩展了诸军兵种协同作战和联合作战的范围，使战争发展为",
-    "options": [
-      {
-        "key": "A",
-        "text": "空地一体"
-      },
-      {
-        "key": "B",
-        "text": "海空一体"
-      },
-      {
-        "key": "C",
-        "text": "海陆空一体"
-      },
-      {
-        "key": "D",
-        "text": "海、陆、空、天、电磁五维一体"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-36",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "远程警戒雷达的探测距离是",
-    "options": [
-      {
-        "key": "A",
-        "text": " 200-300千米"
-      },
-      {
-        "key": "B",
-        "text": " 300-500千米"
-      },
-      {
-        "key": "C",
-        "text": "、500-4000千米"
-      },
-      {
-        "key": "D",
-        "text": " 4000千米以上"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-37",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "炮兵声测侦察的理论基础是",
-    "options": [
-      {
-        "key": "A",
-        "text": "电视技术"
-      },
-      {
-        "key": "B",
-        "text": "双耳效应"
-      },
-      {
-        "key": "C",
-        "text": "物理场变化"
-      },
-      {
-        "key": "D",
-        "text": "物体对无线电波的反射特性"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-38",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "以下属于无人驾驶侦察机的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "美国的U-2R"
-      },
-      {
-        "key": "B",
-        "text": "美国的“捕食者”号"
-      },
-      {
-        "key": "C",
-        "text": "俄罗斯的米格-25侦察机"
-      },
-      {
-        "key": "D",
-        "text": "美国的SR-71"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-39",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "惯性导弹的特点是",
-    "options": [
-      {
-        "key": "A",
-        "text": "制导精度较高，制导精度小于10米"
-      },
-      {
-        "key": "B",
-        "text": "能独立进行工作、不受气象条件的影响、抗干扰能力、隐蔽性好"
-      },
-      {
-        "key": "C",
-        "text": "可以全天候、全季节工作，制导精度约30米"
-      },
-      {
-        "key": "D",
-        "text": "不受人工或电磁场的干扰，自主性强，稳定性好，定位精度高"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-40",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "下面属于导弹的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "人造卫星"
-      },
-      {
-        "key": "B",
-        "text": "制导炸弹"
-      },
-      {
-        "key": "C",
-        "text": "火箭弹"
-      },
-      {
-        "key": "D",
-        "text": "火箭助飞的鱼雷"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-41",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中程导弹的射程为",
-    "options": [
-      {
-        "key": "A",
-        "text": "1000千米"
-      },
-      {
-        "key": "B",
-        "text": "1000-3000千米"
-      },
-      {
-        "key": "C",
-        "text": "3000-8000千米"
-      },
-      {
-        "key": "D",
-        "text": "、8000千米"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-42",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "可以有效防可见光探测，也具有防紫外、近红外探测性能的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "天然伪装技术"
-      },
-      {
-        "key": "B",
-        "text": "烟雾伪装技术"
-      },
-      {
-        "key": "C",
-        "text": "人工遮障伪装技术"
-      },
-      {
-        "key": "D",
-        "text": "迷彩伪装技术"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-43",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "被称为“王牌技术”的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "伪装技术"
-      },
-      {
-        "key": "B",
-        "text": "隐身技术"
-      },
-      {
-        "key": "C",
-        "text": "精确制导技术"
-      },
-      {
-        "key": "D",
-        "text": "航天技术"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-44",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "以下不属于红外隐身技术内容的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "改变目标的红外辐射特性，即改变目标表面各处的辐射率分布"
-      },
-      {
-        "key": "B",
-        "text": "降低目标的红外辐射强度，即通常多说的热抑制技术"
-      },
-      {
-        "key": "C",
-        "text": "改进外形设计"
-      },
-      {
-        "key": "D",
-        "text": "调节红外辐射的传播途径（包括光谱转换技术"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-45",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "航天技术的基础是",
-    "options": [
-      {
-        "key": "A",
-        "text": "运载器技术"
-      },
-      {
-        "key": "B",
-        "text": "航天器技术"
-      },
-      {
-        "key": "C",
-        "text": "空间技术"
-      },
-      {
-        "key": "D",
-        "text": "地面测控技术"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-46",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "第一宇宙速度也叫环绕速度，具体为",
-    "options": [
-      {
-        "key": "A",
-        "text": "7.6千米/秒时"
-      },
-      {
-        "key": "B",
-        "text": "7.9千米/秒时"
-      },
-      {
-        "key": "C",
-        "text": "11.2千米/秒时"
-      },
-      {
-        "key": "D",
-        "text": "16.7千米/秒时"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-47",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "以下属于空间探测器的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "载人飞船"
-      },
-      {
-        "key": "B",
-        "text": "航天器"
-      },
-      {
-        "key": "C",
-        "text": "人造地球卫星"
-      },
-      {
-        "key": "D",
-        "text": "航天飞机"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-48",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "现代军事上有“千里眼”和“顺风耳”之称的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "飞船"
-      },
-      {
-        "key": "B",
-        "text": "火箭"
-      },
-      {
-        "key": "C",
-        "text": "雷达"
-      },
-      {
-        "key": "D",
-        "text": "卫星"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-49",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "现代战争中，电子对抗的主要形式是",
-    "options": [
-      {
-        "key": "A",
-        "text": "战略侦察"
-      },
-      {
-        "key": "B",
-        "text": "直接侦察"
-      },
-      {
-        "key": "C",
-        "text": "反电子侦察"
-      },
-      {
-        "key": "D",
-        "text": "电子干扰与反干扰"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-50",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "被称为动能武器的“眼睛”的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "超高速发射装置"
-      },
-      {
-        "key": "B",
-        "text": "探测系统"
-      },
-      {
-        "key": "C",
-        "text": "制导系统"
-      },
-      {
-        "key": "D",
-        "text": "射弹"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-51",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "目前，世界上正在进行研制或已在部署的战区动能武器主要是",
-    "options": [
-      {
-        "key": "A",
-        "text": "火箭型"
-      },
-      {
-        "key": "B",
-        "text": "电磁型"
-      },
-      {
-        "key": "C",
-        "text": "微波型"
-      },
-      {
-        "key": "D",
-        "text": "电热型"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-52",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "新军事变革的奠基阶段是",
+    "prompt": "新军事变革的奠基阶段是（ ）",
     "options": [
       {
         "key": "A",
@@ -7494,45 +6417,16 @@
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。20世纪80年代。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-53",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-16",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "被称为信息化条件下的第一场高技术局部战争的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "伊拉克战争"
-      },
-      {
-        "key": "B",
-        "text": "海湾战争"
-      },
-      {
-        "key": "C",
-        "text": "科索沃战争"
-      },
-      {
-        "key": "D",
-        "text": "阿富汗战争"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-54",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "当今世界正在进行的新军事变革是一场空前的全维军事革命，其核心是",
+    "prompt": "当今世界正在进行的新军事变革是一场空前的全维军事革命，其核心是（ ）",
     "options": [
       {
         "key": "A",
@@ -7540,7 +6434,7 @@
       },
       {
         "key": "B",
-        "text": "加速组建信息化军队、实现武器装备的信息户和智能化"
+        "text": "加速\n组建信息化军队、实现武器装备的信息户和智能化"
       },
       {
         "key": "C",
@@ -7552,45 +6446,16 @@
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。军事信息化革命。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-55",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-17",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "采用精确打击特种作战相结合的作战思想的典型战争是",
-    "options": [
-      {
-        "key": "A",
-        "text": "海湾战争"
-      },
-      {
-        "key": "B",
-        "text": "科索沃战争"
-      },
-      {
-        "key": "C",
-        "text": "阿富汗战争"
-      },
-      {
-        "key": "D",
-        "text": "伊拉克战争"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-56",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "未来战争是在高技术条件下的局部战争，其核心是",
+    "prompt": "未来战争是在高技术条件下的局部战争，其核心是（ ）",
     "options": [
       {
         "key": "A",
@@ -7606,20 +6471,20 @@
       },
       {
         "key": "D",
-        "text": "军队素质"
+        "text": "军队\n素质"
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。信息技术。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-57",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-18",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "关于军事思想的理解不正确的是",
+    "prompt": "关于军事思想的理解不正确的是（ ）",
     "options": [
       {
         "key": "A",
@@ -7627,11 +6492,11 @@
       },
       {
         "key": "B",
-        "text": "军事思想包括战争观、战争问题的方法论、战争指导思想、建军指导思想等基本内容。"
+        "text": "军事思想包括战\n争观、战争问题的方法论、战争指导思想、建军指导思想等基本内容。"
       },
       {
         "key": "C",
-        "text": "军事思想来源于军事实践，不能指导军事实践。"
+        "text": "军事思想来源于军事实践，不能\n指导军事实践。"
       },
       {
         "key": "D",
@@ -7639,16 +6504,16 @@
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。军事思想来源于军事实践，不能\n指导军事实践。。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-58",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-19",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "军事思想的分类不正确的是",
+    "prompt": "军事思想的分类不正确的是（ ）",
     "options": [
       {
         "key": "A",
@@ -7664,136 +6529,20 @@
       },
       {
         "key": "D",
-        "text": "按军事领导人划分，如毛泽东军事思想"
+        "text": "按军事领\n导人划分，如毛泽东军事思想\n第 2 页"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。按军事领\n导人划分，如毛泽东军事思想\n第 2 页。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-59",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-20",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "那部著作属于外国古代军事思想著作",
-    "options": [
-      {
-        "key": "A",
-        "text": "《高卢战记》"
-      },
-      {
-        "key": "B",
-        "text": "《共产党宣言》"
-      },
-      {
-        "key": "C",
-        "text": "《制空权》"
-      },
-      {
-        "key": "D",
-        "text": "《机械化战争论》"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-60",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "哪一部作品不属于我国古代军事著作",
-    "options": [
-      {
-        "key": "A",
-        "text": "《孙子》"
-      },
-      {
-        "key": "B",
-        "text": "《论持久战》"
-      },
-      {
-        "key": "C",
-        "text": "《司马法》"
-      },
-      {
-        "key": "D",
-        "text": "《六韬》"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-61",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "现代西方军事思想最主要的特征是",
-    "options": [
-      {
-        "key": "A",
-        "text": "对先进主战武器的应用给军事领域带来的深刻变革的研究"
-      },
-      {
-        "key": "B",
-        "text": "对帝国主义时代战争的研究"
-      },
-      {
-        "key": "C",
-        "text": "建设无产阶级军队的研究"
-      },
-      {
-        "key": "D",
-        "text": "近现代战争战略战术的研究"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-62",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "冷战时期军事思想的最大特征是以什么为技术标志的",
-    "options": [
-      {
-        "key": "A",
-        "text": "火药"
-      },
-      {
-        "key": "B",
-        "text": "机械化武器"
-      },
-      {
-        "key": "C",
-        "text": "核武器"
-      },
-      {
-        "key": "D",
-        "text": "信息化武器"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-63",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "对《孙子兵法》评价不正确的是",
+    "prompt": "对《孙子兵法》评价不正确的是（ ）",
     "options": [
       {
         "key": "A",
@@ -7801,7 +6550,7 @@
       },
       {
         "key": "B",
-        "text": "在军事哲理方面，具有朴素的唯物论和辩证法思想"
+        "text": "在军事哲理方\n面，具有朴素的唯物论和辩证法思想"
       },
       {
         "key": "C",
@@ -7809,107 +6558,49 @@
       },
       {
         "key": "D",
-        "text": "是马克思主义军事科学重要理论的重要来源"
+        "text": "是马克思主义军事科学重要理\n论的重要来源"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。是马克思主义军事科学重要理\n论的重要来源。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-64",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-21",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "对《战争论》评价不正确的是",
+    "prompt": "“政治是不流血的战争，战争是流血的政治”形象地说明（ ）",
     "options": [
       {
         "key": "A",
-        "text": "既是一部军事理论著作，又是一部哲学著作"
+        "text": "战争与经济的关系"
       },
       {
         "key": "B",
-        "text": "是马克思主义军事理论的来源之一"
+        "text": "战争与政治的关\n系"
       },
       {
         "key": "C",
-        "text": "是西方古代军事理论的顶峰之作"
+        "text": "战争的性质"
       },
       {
         "key": "D",
-        "text": "奠定了近代西方资产阶级军事学的基础"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-65",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "《战争论》的作者是",
-    "options": [
-      {
-        "key": "A",
-        "text": "克劳塞维茨"
-      },
-      {
-        "key": "B",
-        "text": "拿破仑"
-      },
-      {
-        "key": "C",
-        "text": "斯大林"
-      },
-      {
-        "key": "D",
-        "text": "艾森豪威尔"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-66",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "决定战争胜负的关键因素是",
-    "options": [
-      {
-        "key": "A",
-        "text": "武器的因素"
-      },
-      {
-        "key": "B",
-        "text": "人的因素"
-      },
-      {
-        "key": "C",
-        "text": "经济的因素"
-      },
-      {
-        "key": "D",
-        "text": "政治的因素"
+        "text": "战争的规律"
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。战争与政治的关\n系。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-67",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-22",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "下列哪一种打法不属于积极防御作战",
+    "prompt": "下列哪一种打法不属于积极防御作战（ ）",
     "options": [
       {
         "key": "A",
@@ -7917,7 +6608,7 @@
       },
       {
         "key": "B",
-        "text": "实行有利条件下的决战，避免不利条件下的决战"
+        "text": "实行有利条件下的决战，避免不利\n条件下的决战"
       },
       {
         "key": "C",
@@ -7929,393 +6620,45 @@
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。坚守不出，专心防御。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-68",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-23",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "和平与发展是当今世界的主题，这一论断是由谁提出来的。",
+    "prompt": "新世纪国防和军队建设的总要求是：政治合格，军事过硬，______，________，保障有力。（ ）",
     "options": [
       {
         "key": "A",
-        "text": "毛泽东"
+        "text": "作风\n优良，纪律严明"
       },
       {
         "key": "B",
-        "text": "邓小平"
+        "text": "管理科学，纪律严明"
       },
       {
         "key": "C",
-        "text": "江泽民"
+        "text": "作风优良，技术精湛"
       },
       {
         "key": "D",
-        "text": "胡锦涛"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-69",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "对邓小平新时期军队建设思想的历史地位理解不正确的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "是新的历史条件下军徽建设实践经验的科学总结和理论概括"
-      },
-      {
-        "key": "B",
-        "text": "反映了新时期军队建设的基本规律，具有强大的生命力"
-      },
-      {
-        "key": "C",
-        "text": "深刻揭示了新世纪国防和军队建设的特点和规律"
-      },
-      {
-        "key": "D",
-        "text": "具有鲜明的时代性，深刻的实践性和科学的指导性"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-70",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "列宁指出，现代战争的根源是",
-    "options": [
-      {
-        "key": "A",
-        "text": "殖民主义"
-      },
-      {
-        "key": "B",
-        "text": "帝国主义"
-      },
-      {
-        "key": "C",
-        "text": "霸权主义"
-      },
-      {
-        "key": "D",
-        "text": "经济利益"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-71",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "冷战时期，局部战争的根源是",
-    "options": [
-      {
-        "key": "A",
-        "text": "殖民主义"
-      },
-      {
-        "key": "B",
-        "text": "帝国主义"
-      },
-      {
-        "key": "C",
-        "text": "霸权主义"
-      },
-      {
-        "key": "D",
-        "text": "经济利益"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-75",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "“有些国际上的领土争端，可以先不谈主权，先进行共同开发”，这个观点是谁提出来的",
-    "options": [
-      {
-        "key": "A",
-        "text": "毛泽东"
-      },
-      {
-        "key": "B",
-        "text": "邓小平"
-      },
-      {
-        "key": "C",
-        "text": "江泽民"
-      },
-      {
-        "key": "D",
-        "text": "胡锦涛"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-76",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "要造成一种无形和有形的力量，使敌人想打而不敢打，想打又打不起来。这种军事战略被称为",
-    "options": [
-      {
-        "key": "A",
-        "text": "遏制战争"
-      },
-      {
-        "key": "B",
-        "text": "打赢战争"
-      },
-      {
-        "key": "C",
-        "text": "防御战略"
-      },
-      {
-        "key": "D",
-        "text": "和平战略"
+        "text": "思想上进，装备精良"
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。作风\n优良，纪律严明。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-77",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-24",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "从古到今发生的战争的基本起因和根本目的最终是为了",
-    "options": [
-      {
-        "key": "A",
-        "text": "政治利益"
-      },
-      {
-        "key": "B",
-        "text": "民族利益"
-      },
-      {
-        "key": "C",
-        "text": "人民利益"
-      },
-      {
-        "key": "D",
-        "text": "经济利益"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-78",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "创新和发展我党我军的军事指导理论，必须围绕解决哪两个历史性课题",
-    "options": [
-      {
-        "key": "A",
-        "text": "和平与发展"
-      },
-      {
-        "key": "B",
-        "text": "人和物"
-      },
-      {
-        "key": "C",
-        "text": "打得赢，不变质"
-      },
-      {
-        "key": "D",
-        "text": "科技与人才"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-79",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中国人民解放军制定了《内务条例》、和《队列条令》三大共同条令。",
-    "options": [
-      {
-        "key": "A",
-        "text": "《卫生条令》"
-      },
-      {
-        "key": "B",
-        "text": "《纪律条令》"
-      },
-      {
-        "key": "C",
-        "text": "《服务条令》"
-      },
-      {
-        "key": "D",
-        "text": "《会务条令》"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-80",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "齐步走行进速度每分钟步",
-    "options": [
-      {
-        "key": "A",
-        "text": "116~122"
-      },
-      {
-        "key": "B",
-        "text": "110~116"
-      },
-      {
-        "key": "C",
-        "text": "170~180"
-      },
-      {
-        "key": "D",
-        "text": "102~108"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-81",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "男士兵不准留长发、大鬓角和胡须，帽墙外的蓄发不得超过厘米；女士兵发辫不得过肩，不准烫发。",
-    "options": [
-      {
-        "key": "A",
-        "text": "1.5"
-      },
-      {
-        "key": "B",
-        "text": "2.5"
-      },
-      {
-        "key": "C",
-        "text": "3.5"
-      },
-      {
-        "key": "D",
-        "text": "4.5"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-82",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中国人民解放军奖励的项目有嘉奖、三等功、二等功、一等功、。",
-    "options": [
-      {
-        "key": "A",
-        "text": "荣誉称号"
-      },
-      {
-        "key": "B",
-        "text": "特等功"
-      },
-      {
-        "key": "C",
-        "text": "一级英模"
-      },
-      {
-        "key": "D",
-        "text": "四等功"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-83",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中国人民解放军处分的项目有警告、严重警告、记过、记大过、降职或者降衔（衔级工资档次）、撤职或者取消士官资格、除名、。",
-    "options": [
-      {
-        "key": "A",
-        "text": "开除军籍"
-      },
-      {
-        "key": "B",
-        "text": "记小过"
-      },
-      {
-        "key": "C",
-        "text": "取消安置资格"
-      },
-      {
-        "key": "D",
-        "text": "口头警告"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-84",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "国防是国家为了防备和抵抗 ，制止 ，保卫国家主权、统一、领土完整和安全所进行的军事活动。",
+    "prompt": "国防是国家为了防备和抵抗 ，制止 ，保卫国家主权、统一、领土完整和安全所进行的军事活动。（ ）",
     "options": [
       {
         "key": "A",
@@ -8324,56 +6667,19 @@
       {
         "key": "B",
         "text": "进攻、暴乱"
-      },
-      {
-        "key": "C",
-        "text": "进攻、武装颠覆"
-      },
-      {
-        "key": "D",
-        "text": "侵略、暴乱"
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。侵略、武装颠覆。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-85",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-25",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "中国的国防类型是",
-    "options": [
-      {
-        "key": "A",
-        "text": "扩张型"
-      },
-      {
-        "key": "B",
-        "text": "自卫型"
-      },
-      {
-        "key": "C",
-        "text": "联盟型"
-      },
-      {
-        "key": "D",
-        "text": "中立型"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-86",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "一个国家实施国防的主要手段是",
+    "prompt": "一个国家实施国防的主要手段是（ ）",
     "options": [
       {
         "key": "A",
@@ -8382,230 +6688,19 @@
       {
         "key": "B",
         "text": "发展经济建设"
-      },
-      {
-        "key": "C",
-        "text": "积极外交"
-      },
-      {
-        "key": "D",
-        "text": "加强军事实力"
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。使用国家武装力量。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-87",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-26",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "以下所列的不属于我国古代的国防工程范畴的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "城池"
-      },
-      {
-        "key": "B",
-        "text": "长城"
-      },
-      {
-        "key": "C",
-        "text": "京杭大运河"
-      },
-      {
-        "key": "D",
-        "text": "兵工厂"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-88",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "经各朝代多次修建连接，至明代行成了西起嘉峪关，东至山海关，全长 公里的万里长城。",
-    "options": [
-      {
-        "key": "A",
-        "text": "12800"
-      },
-      {
-        "key": "B",
-        "text": "12700"
-      },
-      {
-        "key": "C",
-        "text": "12000"
-      },
-      {
-        "key": "D",
-        "text": "13000"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-89",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我国古代的国防工程建设汇总，建设的时间最早，数量最多的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "城池"
-      },
-      {
-        "key": "B",
-        "text": "长城"
-      },
-      {
-        "key": "C",
-        "text": "京杭大运河"
-      },
-      {
-        "key": "D",
-        "text": "海防要塞"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-90",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "1884年至1885年，中法交战，爱国将领 率领的清军取得镇南关大捷。",
-    "options": [
-      {
-        "key": "A",
-        "text": "冯子材"
-      },
-      {
-        "key": "B",
-        "text": "林则徐"
-      },
-      {
-        "key": "C",
-        "text": "丁汝昌"
-      },
-      {
-        "key": "D",
-        "text": "吉鸿昌"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-91",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "八国联军于 年，发动了侵华战争。",
-    "options": [
-      {
-        "key": "A",
-        "text": "1895"
-      },
-      {
-        "key": "B",
-        "text": "1900"
-      },
-      {
-        "key": "C",
-        "text": "1901"
-      },
-      {
-        "key": "D",
-        "text": "1911"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-92",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "八国联军侵华，清政府战败，清政府与八国为达标的侵略者签订了 。",
-    "options": [
-      {
-        "key": "A",
-        "text": " 《辛丑条约》"
-      },
-      {
-        "key": "B",
-        "text": "《天津条约》"
-      },
-      {
-        "key": "C",
-        "text": "《北京条约》"
-      },
-      {
-        "key": "D",
-        "text": "《马关条约》"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-93",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "年，中国共产党成立，中国工人阶级开始以自觉的姿态登上历史舞台。",
-    "options": [
-      {
-        "key": "A",
-        "text": "1911"
-      },
-      {
-        "key": "B",
-        "text": "1919"
-      },
-      {
-        "key": "C",
-        "text": "1920"
-      },
-      {
-        "key": "D",
-        "text": "1921"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-94",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "是国防强大的基础。",
+    "prompt": "是国防强大的基础。 （ ）",
     "options": [
       {
         "key": "A",
@@ -8614,27 +6709,19 @@
       {
         "key": "B",
         "text": "军事科技发展"
-      },
-      {
-        "key": "C",
-        "text": "军队人才培养"
-      },
-      {
-        "key": "D",
-        "text": "经济发展"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-95",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-27",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "中的国防条款在国防法规体系中居于最高地位。",
+    "prompt": "中的国防条款在国防法规体系中居于最高地位。（ ）",
     "options": [
       {
         "key": "A",
@@ -8643,27 +6730,19 @@
       {
         "key": "B",
         "text": "国防法规"
-      },
-      {
-        "key": "C",
-        "text": "兵役法"
-      },
-      {
-        "key": "D",
-        "text": "国防教育法"
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。宪法。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-96",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-28",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "我国奉行 的国防政策。",
+    "prompt": "我国奉行 的国防政策。（ ）",
     "options": [
       {
         "key": "A",
@@ -8683,799 +6762,277 @@
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。防御性。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-97",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-30",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "《国防法》是哪年开始颁布实施的？",
+    "prompt": "拉开信息化战争序幕的时代是（ ）",
     "options": [
       {
         "key": "A",
-        "text": "1996"
+        "text": "20世纪50年代"
       },
       {
         "key": "B",
-        "text": "1997"
+        "text": "20世纪60年代"
       },
       {
         "key": "C",
-        "text": "1998"
+        "text": "20世纪70年代"
       },
       {
         "key": "D",
-        "text": "1999"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-98",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "国防所维护的国家利益主要是",
-    "options": [
-      {
-        "key": "A",
-        "text": "政治利益"
-      },
-      {
-        "key": "B",
-        "text": "经济利益"
-      },
-      {
-        "key": "C",
-        "text": "外交利益"
-      },
-      {
-        "key": "D",
-        "text": "安全利益"
+        "text": "20世纪80年代"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。20世纪80年代。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-99",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-31",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "民兵干部一年内训练时间为",
+    "prompt": "在信息化战争中，战争消耗巨大的特征表明，一个国家要赢得未来战争主要依靠（ ）",
     "options": [
       {
         "key": "A",
-        "text": "15天"
+        "text": "国家的综合国力"
       },
       {
         "key": "B",
-        "text": "20天"
+        "text": "国家的国际地位"
       },
       {
         "key": "C",
-        "text": "25天"
+        "text": "国家的国土面积"
       },
       {
         "key": "D",
-        "text": "30天"
+        "text": "国家的武器装备水平"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案为A。国家的综合国力。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-32",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "信息化战争的主导要素是（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "物质"
+      },
+      {
+        "key": "B",
+        "text": "精神"
+      },
+      {
+        "key": "C",
+        "text": "技术"
+      },
+      {
+        "key": "D",
+        "text": "信息"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。信息。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-100",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-33",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "第二炮兵组建于年7月1日。",
+    "prompt": "在信息化战争中，（ ）的发展为控制战争提供了相对有效的工具。",
     "options": [
       {
         "key": "A",
-        "text": "1949"
+        "text": "作战技术"
       },
       {
         "key": "B",
-        "text": "1964"
+        "text": "军事理论"
       },
       {
         "key": "C",
-        "text": "1966"
+        "text": "军人素\n质"
       },
       {
         "key": "D",
-        "text": "1968"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-101",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "“第二炮兵”的名字是由亲自给它命名的。",
-    "options": [
-      {
-        "key": "A",
-        "text": "毛泽东"
-      },
-      {
-        "key": "B",
-        "text": "朱德"
-      },
-      {
-        "key": "C",
-        "text": "周恩来"
-      },
-      {
-        "key": "D",
-        "text": "林彪"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-102",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "由各个层次和各个方面内容的国防法律规范组成的有机整体是指",
-    "options": [
-      {
-        "key": "A",
-        "text": "国防规章"
-      },
-      {
-        "key": "B",
-        "text": "国防法律"
-      },
-      {
-        "key": "C",
-        "text": "国防法规"
-      },
-      {
-        "key": "D",
-        "text": "国防法规体系"
+        "text": "精确制导武器"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。精确制导武器。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-103",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-34",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "下列不属于《中华人民共和国国防法》规定的中华人民共和国武装力量的是",
+    "prompt": "地面部队（ ）和作战行动方式的非线性一体化是信息化战争全面形成的主要标志。",
     "options": [
       {
         "key": "A",
-        "text": "中国人民解放军现役部队"
+        "text": "数字化"
       },
       {
         "key": "B",
-        "text": "预备役部队"
+        "text": "集团化"
       },
       {
         "key": "C",
-        "text": "中国人民武装警察部队"
+        "text": "装备现代化"
       },
       {
         "key": "D",
-        "text": "公务员"
+        "text": "小型化"
+      }
+    ],
+    "answer": "A",
+    "explanation": "正确答案为A。数字化。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-choice-35",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "single_choice",
+    "prompt": "下列（ ）不属于完善国防动员体制中的机制。",
+    "options": [
+      {
+        "key": "A",
+        "text": "平战转换机制"
+      },
+      {
+        "key": "B",
+        "text": "军地协调机制"
+      },
+      {
+        "key": "C",
+        "text": "激励补偿机制"
+      },
+      {
+        "key": "D",
+        "text": "全民动员机制"
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。全民动员机制。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-104",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-36",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "以下不属于学生军训的意义的是",
+    "prompt": "（ ）是构成国防的两大基本要素。",
     "options": [
       {
         "key": "A",
-        "text": "履行兵役义务"
+        "text": "军事理论和战略战术思想"
       },
       {
         "key": "B",
-        "text": "准备战争"
+        "text": "常备军和后备力量"
       },
       {
         "key": "C",
-        "text": "加强国防后备力量建设"
+        "text": "国防科技和国\n防工业"
       },
       {
         "key": "D",
-        "text": "提高学生素质"
+        "text": "常备军和国防科技"
       }
     ],
     "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B。常备军和后备力量。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-105",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-37",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "军事战略主要通过对的建设和运用来达成既定的政治目的",
+    "prompt": "现阶段，从国际战略形式和我国周边环境看，我国安全面临的主要威胁是（ ）",
     "options": [
       {
         "key": "A",
-        "text": "战略方针"
+        "text": "局部战争"
       },
       {
         "key": "B",
-        "text": "军事力量"
+        "text": "全局战争"
       },
       {
         "key": "C",
-        "text": "战略手段"
+        "text": "武器装备落后"
       },
       {
         "key": "D",
-        "text": "战略环境"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-106",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "中国是个陆地大国，陆地与个国相接壤",
-    "options": [
-      {
-        "key": "A",
-        "text": "14"
-      },
-      {
-        "key": "B",
-        "text": "15"
-      },
-      {
-        "key": "C",
-        "text": "16"
-      },
-      {
-        "key": "D",
-        "text": "17"
+        "text": "国防力量不够强大"
       }
     ],
     "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A。局部战争。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-107",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-38",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "在新形势下，中国周边的热点问题是",
+    "prompt": "（ ）世纪是机械化战争诞生和走向辉煌的世纪。",
     "options": [
       {
         "key": "A",
-        "text": "祖国的统一"
+        "text": "18"
       },
       {
         "key": "B",
-        "text": "朝鲜半岛"
+        "text": "19"
       },
       {
         "key": "C",
-        "text": "朝鲜半岛和印巴之间的对立"
+        "text": "20"
       },
       {
         "key": "D",
-        "text": "钓鱼岛"
+        "text": "21"
       }
     ],
     "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为C。20。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-108",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-choice-39",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "single_choice",
-    "prompt": "战略环境是指影响国家安全或的客观情况和条件。",
-    "options": [
-      {
-        "key": "A",
-        "text": "政治安全"
-      },
-      {
-        "key": "B",
-        "text": "政治环境"
-      },
-      {
-        "key": "C",
-        "text": "战争全局"
-      },
-      {
-        "key": "D",
-        "text": "战略部署"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-109",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "从国际战略环境的角度看，是什么战争严重损害了现行国际秩序。",
-    "options": [
-      {
-        "key": "A",
-        "text": "阿富汉战争"
-      },
-      {
-        "key": "B",
-        "text": "伊拉克战争"
-      },
-      {
-        "key": "C",
-        "text": "911事件"
-      },
-      {
-        "key": "D",
-        "text": "两伊战争"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-110",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "2002年9月，美国正式推出了“”的战略，放弃了以往只有美国受到直接威胁时才使用武力的原则。",
-    "options": [
-      {
-        "key": "A",
-        "text": "遏制战略"
-      },
-      {
-        "key": "B",
-        "text": "大规模报复战略"
-      },
-      {
-        "key": "C",
-        "text": "先发制人"
-      },
-      {
-        "key": "D",
-        "text": "新灵活反应战略"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-111",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "以下哪一种是资本主义初期时候的国际战略格局？",
-    "options": [
-      {
-        "key": "A",
-        "text": "两极格局"
-      },
-      {
-        "key": "B",
-        "text": "单极格局"
-      },
-      {
-        "key": "C",
-        "text": "多极格局"
-      },
-      {
-        "key": "D",
-        "text": "多元交叉格局"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-112",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "三圈战略格局是指在欧洲以为中心的政治、军事、经济圈。",
-    "options": [
-      {
-        "key": "A",
-        "text": "德法"
-      },
-      {
-        "key": "B",
-        "text": "德英"
-      },
-      {
-        "key": "C",
-        "text": "英法"
-      },
-      {
-        "key": "D",
-        "text": "德意"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-113",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "目前国际战略格局主要呈现的态势和结构应该是",
-    "options": [
-      {
-        "key": "A",
-        "text": "两极"
-      },
-      {
-        "key": "B",
-        "text": "一超多强"
-      },
-      {
-        "key": "C",
-        "text": "多极格局"
-      },
-      {
-        "key": "D",
-        "text": "多元交叉格局"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-114",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "今后相当长的时间内世界主要军事力量对比的总体态势是",
-    "options": [
-      {
-        "key": "A",
-        "text": "一超多强"
-      },
-      {
-        "key": "B",
-        "text": "三环格局"
-      },
-      {
-        "key": "C",
-        "text": "五边格局"
-      },
-      {
-        "key": "D",
-        "text": "多极格局"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-115",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我国拥有多少平方千米的海洋国土。",
-    "options": [
-      {
-        "key": "A",
-        "text": "300万"
-      },
-      {
-        "key": "B",
-        "text": "200万"
-      },
-      {
-        "key": "C",
-        "text": "400万"
-      },
-      {
-        "key": "D",
-        "text": "500万"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-116",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "朝鲜核问题六方会谈的第一轮会谈在什么时候。",
-    "options": [
-      {
-        "key": "A",
-        "text": "2004年"
-      },
-      {
-        "key": "B",
-        "text": "2003年"
-      },
-      {
-        "key": "C",
-        "text": "2002年"
-      },
-      {
-        "key": "D",
-        "text": "2005年"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-117",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "鲜核问题六方会谈的六方指哪几个国家？",
-    "options": [
-      {
-        "key": "A",
-        "text": "朝鲜、美国、中国、韩国、俄罗斯和日本"
-      },
-      {
-        "key": "B",
-        "text": "朝鲜、美国、中国、印度、俄罗斯和日本"
-      },
-      {
-        "key": "C",
-        "text": "韩国、美国、中国、印度、俄罗斯和日本"
-      },
-      {
-        "key": "D",
-        "text": "韩国、美国、中国、欧孟、俄罗斯和日本"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-118",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我国领土总面积应该是平方公里。",
-    "options": [
-      {
-        "key": "A",
-        "text": "960万"
-      },
-      {
-        "key": "B",
-        "text": "300万"
-      },
-      {
-        "key": "C",
-        "text": "1260万"
-      },
-      {
-        "key": "D",
-        "text": "660万"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-119",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "当代一超多强的战略格局中的多强是指俄罗斯、欧盟、中国和。",
-    "options": [
-      {
-        "key": "A",
-        "text": "日本"
-      },
-      {
-        "key": "B",
-        "text": "印度"
-      },
-      {
-        "key": "C",
-        "text": "美国"
-      },
-      {
-        "key": "D",
-        "text": "朝鲜"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-120",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "以下哪一项不是李登辉在位期间的台独声称？",
-    "options": [
-      {
-        "key": "A",
-        "text": "中华民国在台湾"
-      },
-      {
-        "key": "B",
-        "text": "七块论"
-      },
-      {
-        "key": "C",
-        "text": "两国论"
-      },
-      {
-        "key": "D",
-        "text": "统一不是唯一选项"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-121",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "下面不属于自然战（地球物理战）的作战形式是",
-    "options": [
-      {
-        "key": "A",
-        "text": "在战场上，利用次声波，使敌方部队丧失战斗能力"
-      },
-      {
-        "key": "B",
-        "text": "冬天作战，用人工降雪给敌军作战行动和后勤保障增加困难"
-      },
-      {
-        "key": "C",
-        "text": "抗登陆作战中，采用人工制造海啸、大浪、台风等阻止破坏敌军登陆"
-      },
-      {
-        "key": "D",
-        "text": "防空作战中，用人工降暴雨的方式使敌方飞机不能起降"
-      }
-    ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-122",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "在未来一段时间，仍将是引发战争最根本的诱因。",
-    "options": [
-      {
-        "key": "A",
-        "text": "经济"
-      },
-      {
-        "key": "B",
-        "text": "政治"
-      },
-      {
-        "key": "C",
-        "text": "科技"
-      },
-      {
-        "key": "D",
-        "text": "军事"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-123",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "不属于21世纪整个世界军队建设的发展趋势的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "数字化 B、小型化"
-      },
-      {
-        "key": "C",
-        "text": "职业化 D、规模化178（ C ）特殊的地理位置和地形，使其成为南亚与中亚和西亚的交通要冲，历来是兵家必争之地。"
-      },
-      {
-        "key": "A",
-        "text": "印度 B、巴基斯坦"
-      },
-      {
-        "key": "C",
-        "text": "阿富汗 D、伊拉克"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-124",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "战争体现了美军的主战武器已经基本上实现了从机械化向信息化的转型。",
+    "prompt": "（ ）战争体现了美军的主战武器已经基本上实现了从机械化向信息化的转型。",
     "options": [
       {
         "key": "A",
@@ -9483,7 +7040,7 @@
       },
       {
         "key": "B",
-        "text": "科索沃战争"
+        "text": "科索沃战\n争"
       },
       {
         "key": "C",
@@ -9495,822 +7052,403 @@
       }
     ],
     "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为D。伊拉克战争。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-125",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "战争中有被称为“沙漠军刀”的地面作战。",
+    "id": "new-quiz-multi-1",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "我国国防历史说明了什么？（ ）",
     "options": [
       {
         "key": "A",
-        "text": "海湾战争"
+        "text": "经济发展是国防强大的基础。"
       },
       {
         "key": "B",
-        "text": "科索沃战争"
+        "text": "政治昌明是国防巩固的根本。"
       },
       {
         "key": "C",
-        "text": "阿富汗战争"
+        "text": "军\n事实力是国防的强大的重要力量。"
       },
       {
         "key": "D",
-        "text": "伊拉克战争"
+        "text": "国家统一和民族团结是国防强大的关键。\n第 3 页"
       }
     ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "正确答案为A、B、C、D。A.经济发展是国防强大的基础。；B.政治昌明是国防巩固的根本。；C.军\n事实力是国防的强大的重要力量。；D.国家统一和民族团结是国防强大的关键。\n第 3 页。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-126",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "在各种新的作战方式中，被称为导弹袭击式的是",
+    "id": "new-quiz-multi-2",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "毛泽东军事思想的主要内容为五个方面：（ ）",
     "options": [
       {
         "key": "A",
-        "text": "精确战"
+        "text": "无产阶级的战争观和方法论"
       },
       {
         "key": "B",
-        "text": "点穴战"
+        "text": "人民军队建设理论"
       },
       {
         "key": "C",
-        "text": "瘫痪战"
+        "text": "人\n民战争思想"
       },
       {
         "key": "D",
-        "text": "软杀战"
+        "text": "军事思想"
+      },
+      {
+        "key": "E",
+        "text": "人民战争的战略战术"
+      },
+      {
+        "key": "F",
+        "text": "国防建设的理论。（ ）"
       }
     ],
-    "answer": "A",
-    "explanation": "根据军理题库7，正确答案为 A。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E",
+      "F"
+    ],
+    "explanation": "正确答案为A、B、C、E、F。A.无产阶级的战争观和方法论；B.人民军队建设理论；C.人\n民战争思想；E.人民战争的战略战术；F.国防建设的理论。（ ）。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-choice-127",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "看不见刀光剑影，听不见猛烈的枪炮声，是在一种比较温和的战场环境中，使敌丧失作战能力的作战形式是",
+    "id": "new-quiz-multi-3",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "我国的国防法规，按立法权限区分为四个层次：（ ）",
     "options": [
       {
         "key": "A",
-        "text": "电子战"
+        "text": "法律"
       },
       {
         "key": "B",
-        "text": "信息战"
+        "text": "法规"
       },
       {
         "key": "C",
+        "text": "规章"
+      },
+      {
+        "key": "D",
+        "text": "军队性法规"
+      },
+      {
+        "key": "E",
+        "text": "地方性\n法规"
+      },
+      {
+        "key": "F",
+        "text": "国家法规"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "E"
+    ],
+    "explanation": "正确答案为A、B、C、E。A.法律；B.法规；C.规章；E.地方性\n法规。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-4",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "党对军队绝对领导原则的涵义是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "中国人民解放军是中国共产党领导和指挥的军队；"
+      },
+      {
+        "key": "B",
+        "text": "中国共产\n党领导对军队的政治领导；"
+      },
+      {
+        "key": "C",
+        "text": "中国共产党领导对军队的组织领导。"
+      },
+      {
+        "key": "D",
+        "text": "中国人民解放军是一个最高机关"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "正确答案为A、B、C。A.中国人民解放军是中国共产党领导和指挥的军队；；B.中国共产\n党领导对军队的政治领导；；C.中国共产党领导对军队的组织领导。。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-5",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "军队的“三化”是什么？",
+    "options": [
+      {
+        "key": "A",
+        "text": "革命化"
+      },
+      {
+        "key": "B",
+        "text": "经常化"
+      },
+      {
+        "key": "C",
+        "text": "现代化"
+      },
+      {
+        "key": "D",
+        "text": "正规化"
+      }
+    ],
+    "answer": [
+      "A",
+      "C",
+      "D"
+    ],
+    "explanation": "正确答案为A、C、D。A.革命化；C.现代化；D.正规化。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-6",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "为推进中国特色军事变革，我军突出哪四大创新？",
+    "options": [
+      {
+        "key": "A",
+        "text": "创新军事技能"
+      },
+      {
+        "key": "B",
+        "text": "创新军事理论"
+      },
+      {
+        "key": "C",
+        "text": "创新军事组织体\n制"
+      },
+      {
+        "key": "D",
+        "text": "创新军事技术"
+      },
+      {
+        "key": "E",
+        "text": "创新军事管理"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "正确答案为B、C、D、E。B.创新军事理论；C.创新军事组织体\n制；D.创新军事技术；E.创新军事管理。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-7",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "从信息化武器系统的结构看，主要包括（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "信息化智能弹药"
+      },
+      {
+        "key": "B",
+        "text": "信息化作战平台"
+      },
+      {
+        "key": "C",
+        "text": "数字化单兵作战系\n统"
+      },
+      {
+        "key": "D",
+        "text": "综合军事信息系统"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "正确答案为A、B、C、D。A.信息化智能弹药；B.信息化作战平台；C.数字化单兵作战系\n统；D.综合军事信息系统。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-8",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "信息化战争与机械化战争在（ ）方面存在较大差别。",
+    "options": [
+      {
+        "key": "A",
+        "text": "作战主导要素"
+      },
+      {
+        "key": "B",
+        "text": "作战指挥控制"
+      },
+      {
+        "key": "C",
+        "text": "作战总体效能"
+      },
+      {
+        "key": "D",
+        "text": "作战监督部署"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "正确答案为A、B、C。A.作战主导要素；B.作战指挥控制；C.作战总体效能。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-9",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "以下属于信息化战争中出现的新的作战方式的有（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "运动战"
+      },
+      {
+        "key": "B",
         "text": "软杀战"
+      },
+      {
+        "key": "C",
+        "text": "太空战"
       },
       {
         "key": "D",
         "text": "心理战"
       }
     ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-128",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "《孙子兵法》的作者是",
-    "options": [
-      {
-        "key": "A",
-        "text": "孙权"
-      },
-      {
-        "key": "B",
-        "text": "孙武"
-      },
-      {
-        "key": "C",
-        "text": "孙膑"
-      },
-      {
-        "key": "D",
-        "text": "孙中山"
-      }
-    ],
-    "answer": "B",
-    "explanation": "根据军理题库7，正确答案为 B。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-129",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "下列哪句话是毛泽东关于战争与政治的辩证关系的论述。",
-    "options": [
-      {
-        "key": "A",
-        "text": "战争无非是政治通过另一种手段的继续"
-      },
-      {
-        "key": "B",
-        "text": "私有制引起了战争，并且会永远引起战争"
-      },
-      {
-        "key": "C",
-        "text": "政治是不流血的战争，战争是流血的政治"
-      },
-      {
-        "key": "D",
-        "text": "帝国主义是现代战争的根源"
-      }
-    ],
-    "answer": "C",
-    "explanation": "根据军理题库7，正确答案为 C。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-choice-130",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "single_choice",
-    "prompt": "我党领导的人民战争在指导艺术和作战方法上表现的突出特点是",
-    "options": [
-      {
-        "key": "A",
-        "text": "重视将帅"
-      },
-      {
-        "key": "B",
-        "text": "灵活机动"
-      },
-      {
-        "key": "C",
-        "text": "积极防御"
-      },
-      {
-        "key": "D",
-        "text": "依靠群众"
-      }
-    ],
-    "answer": "D",
-    "explanation": "根据军理题库7，正确答案为 D。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-131",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "军事应用技术按其完成的军事任务的性质可分为",
-    "options": [
-      {
-        "key": "A",
-        "text": "战略武器装备技术"
-      },
-      {
-        "key": "B",
-        "text": "战役战术武器装备技术"
-      },
-      {
-        "key": "C",
-        "text": "军事系统工程技术"
-      },
-      {
-        "key": "D",
-        "text": "电子对抗技术"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-132",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "军事高技术的突出特征有",
-    "options": [
-      {
-        "key": "A",
-        "text": "发展的超前性"
-      },
-      {
-        "key": "B",
-        "text": "效果的突袭性"
-      },
-      {
-        "key": "C",
-        "text": "应用的双重性"
-      },
-      {
-        "key": "D",
-        "text": "系统的综合性"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-133",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "军事高技术对军队建设的影响是",
-    "options": [
-      {
-        "key": "A",
-        "text": "压缩军队规模，提高军队质量"
-      },
-      {
-        "key": "B",
-        "text": "军队结构不断优化"
-      },
-      {
-        "key": "C",
-        "text": "军队人员构成不断变化"
-      },
-      {
-        "key": "D",
-        "text": "军队整体素质大幅度提高"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-134",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "现代侦察监视技术按照侦察活动方式可分为",
-    "options": [
-      {
-        "key": "A",
-        "text": "武装侦察"
-      },
-      {
-        "key": "B",
-        "text": "地面侦察"
-      },
-      {
-        "key": "C",
-        "text": "技术侦察"
-      },
-      {
-        "key": "D",
-        "text": "战略导弹侦察"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-135",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "声纳是接收水中声波的装置，主要用于",
-    "options": [
-      {
-        "key": "A",
-        "text": "对水下或水面目标的搜索"
-      },
-      {
-        "key": "B",
-        "text": "用于水声对抗"
-      },
-      {
-        "key": "C",
-        "text": "对水下武器的制导"
-      },
-      {
-        "key": "D",
-        "text": "对水下武器的控制"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-136",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "现代航空侦察的设备主要有",
-    "options": [
-      {
-        "key": "A",
-        "text": "有人驾驶侦察机"
-      },
-      {
-        "key": "B",
-        "text": "无人驾驶侦察机"
-      },
-      {
-        "key": "C",
-        "text": "侦察直升机"
-      },
-      {
-        "key": "D",
-        "text": "预警机"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-137",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "一枚完整的导弹由哪些要素组成",
-    "options": [
-      {
-        "key": "A",
-        "text": "战斗部"
-      },
-      {
-        "key": "B",
-        "text": "动力装置"
-      },
-      {
-        "key": "C",
-        "text": "制导系统"
-      },
-      {
-        "key": "D",
-        "text": "本身是一个飞行器"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-138",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "按照作战使命可以将巡航导弹分为",
-    "options": [
-      {
-        "key": "A",
-        "text": "海射型巡航导弹"
-      },
-      {
-        "key": "B",
-        "text": "陆射型巡航导弹"
-      },
-      {
-        "key": "C",
-        "text": "战略巡航导弹"
-      },
-      {
-        "key": "D",
-        "text": "战术巡航导弹"
-      }
-    ],
-    "answer": [
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 CD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-139",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "精确制导弹药主要有",
-    "options": [
-      {
-        "key": "A",
-        "text": "制导炸弹"
-      },
-      {
-        "key": "B",
-        "text": "制导炮弹"
-      },
-      {
-        "key": "C",
-        "text": "制导地雷"
-      },
-      {
-        "key": "D",
-        "text": "制导鱼雷"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-140",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "世界新军事变革对我国军队建设提出的要求是",
-    "options": [
-      {
-        "key": "A",
-        "text": "加速组建新型部队"
-      },
-      {
-        "key": "B",
-        "text": "加速研制新型武器"
-      },
-      {
-        "key": "C",
-        "text": "加速建立新型指挥"
-      },
-      {
-        "key": "D",
-        "text": "加速造就新型人才"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-141",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "关于军事思想的表述正确的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "军事思想是关于战争和军队问题的理性认识"
-      },
-      {
-        "key": "B",
-        "text": "军事思想通常包括战争观、战争问题的方法论、战争指导思想、建军指导思想等基本内容。"
-      },
-      {
-        "key": "C",
-        "text": "军事思想来源于军事实践，不能指导军事实践。"
-      },
-      {
-        "key": "D",
-        "text": "军事思想具有鲜明的阶级性。"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-142",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "对先进主战武器的应用给军事领域带来的深刻变革的研究，成为近现代西方军事思想最主要的特征，其主要的技术标志是哪些",
-    "options": [
-      {
-        "key": "A",
-        "text": "火药"
-      },
-      {
-        "key": "B",
-        "text": "机械化武器"
-      },
-      {
-        "key": "C",
-        "text": "核武器"
-      },
-      {
-        "key": "D",
-        "text": "高技术武器"
-      }
-    ],
     "answer": [
       "B",
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 BCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为B、C、D。B.软杀战；C.太空战；D.心理战。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-144",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-10",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "关于《战争论》的评价正确的有",
+    "prompt": "（ ）是构成国防的基本要素。",
     "options": [
       {
         "key": "A",
-        "text": "既是一部军事理论著作，又是一部哲学著作"
+        "text": "常备军"
       },
       {
         "key": "B",
-        "text": "是马克思主义军事理论的来源之一"
+        "text": "志愿军"
       },
       {
         "key": "C",
-        "text": "是西方古代军事理论的顶峰之作"
+        "text": "解放军"
       },
       {
         "key": "D",
-        "text": "奠定了近代西方资产阶级军事学的基础"
+        "text": "后备力量"
       }
     ],
     "answer": [
       "A",
-      "B",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、D。A.常备军；D.后备力量。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-145",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-11",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "实行人民战争的基本依据是",
+    "prompt": "信息化战争全面形成的标志是（ ）",
     "options": [
       {
         "key": "A",
-        "text": "首先要依靠战争正义性质的巨大威力"
+        "text": "地面部队的数字化"
       },
       {
         "key": "B",
-        "text": "其次要依靠人民群众在战争中的地位和作用"
+        "text": "高技术局部战争的发生"
       },
       {
         "key": "C",
-        "text": "第三要明确决定战争胜负的因素是人不是物"
+        "text": "海湾战争的爆发"
       },
       {
         "key": "D",
-        "text": "第四要掌握科学的战略战术"
+        "text": "作战行动方式的非线式一体化"
       }
     ],
     "answer": [
       "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-146",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "关于毛泽东军事思想的历史地位表述正确的有",
-    "options": [
-      {
-        "key": "A",
-        "text": "把中国军事思想发展到一个全新的阶段"
-      },
-      {
-        "key": "B",
-        "text": "在新的历史条件下很难再坚持和继续发展"
-      },
-      {
-        "key": "C",
-        "text": "是中国革命战争胜利和国防现代化建设的理论指南"
-      },
-      {
-        "key": "D",
-        "text": "在世界上影响和传播广泛，尤其在第三世界国家中"
-      }
-    ],
-    "answer": [
-      "A",
-      "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ACD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、D。A.地面部队的数字化；D.作战行动方式的非线式一体化。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-147",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-12",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "邓小平新时期军队建设思想的基本内容主要有",
-    "options": [
-      {
-        "key": "A",
-        "text": "关于国防和军队建设总目标的论述"
-      },
-      {
-        "key": "B",
-        "text": "战争与和平理论的发展"
-      },
-      {
-        "key": "C",
-        "text": "军事战略的调整与发展"
-      },
-      {
-        "key": "D",
-        "text": "确保打赢信息化条件下局部战争思想"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-148",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "江泽民国防和军队建设思想的主要内容有",
-    "options": [
-      {
-        "key": "A",
-        "text": "新的历史条件下建设什么样的军队，怎样建设军队"
-      },
-      {
-        "key": "B",
-        "text": "怎样保卫国家社会主义建设的伟大胜利"
-      },
-      {
-        "key": "C",
-        "text": "未来打什么样的仗，怎样打仗的问题"
-      },
-      {
-        "key": "D",
-        "text": "围绕“打得赢，不变质”创新和发展我党我军的军事指导理论"
-      }
-    ],
-    "answer": [
-      "A",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ACD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-149",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "江泽民国防和军队建设思想的指导意义的理解正确的有",
-    "options": [
-      {
-        "key": "A",
-        "text": "是“三个代表”重要思想在军事领域的集中体现"
-      },
-      {
-        "key": "B",
-        "text": "丰富和深化了马克思主义军事理论"
-      },
-      {
-        "key": "C",
-        "text": "是新世纪国防和军队建设的理论指南"
-      },
-      {
-        "key": "D",
-        "text": "明确了新世纪新阶段我国军队的历史使命"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-150",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "胡锦涛关于国防和军队建设重要论述的主要内容有",
-    "options": [
-      {
-        "key": "A",
-        "text": "坚持把科学发展观作为加强国防和军队建设的重要指导方针"
-      },
-      {
-        "key": "B",
-        "text": "关于新世纪新阶段军队的历史使命"
-      },
-      {
-        "key": "C",
-        "text": "现代条件下的人民战争思想"
-      },
-      {
-        "key": "D",
-        "text": "促进国防建设与经济建设协调发展"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-151",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "军事战略通常由战略目的和任务及以下哪几个基本要素构成",
+    "prompt": "军事战略通常由战略目的和任务及以下哪几个基本要素构成（ ）",
     "options": [
       {
         "key": "A",
@@ -10334,48 +7472,16 @@
       "B",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、D。A.战略方针；B.战略手段；D.军事力量。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-152",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-13",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "战略环境是指战略态势，特别是的总态势。",
-    "options": [
-      {
-        "key": "A",
-        "text": "战争"
-      },
-      {
-        "key": "B",
-        "text": "军事"
-      },
-      {
-        "key": "C",
-        "text": "政治"
-      },
-      {
-        "key": "D",
-        "text": "和平"
-      }
-    ],
-    "answer": [
-      "A",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-153",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "对某一国家的战略指导者来说，在制定战略时最值得关注的有哪些？",
+    "prompt": "对某一国家的战略指导者来说，在制定战略时最值得关注的有哪些？（ ）",
     "options": [
       {
         "key": "A",
@@ -10383,7 +7489,7 @@
       },
       {
         "key": "B",
-        "text": "主要国家战略动向"
+        "text": "主要国家\n战略动向"
       },
       {
         "key": "C",
@@ -10400,147 +7506,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.国际战略格局；B.主要国家\n战略动向；C.周边安全形势；D.时代特征。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-154",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-14",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "国内战略环境是指对筹划、指导军事斗争全局具有重大影响的国内",
-    "options": [
-      {
-        "key": "A",
-        "text": "社会环境"
-      },
-      {
-        "key": "B",
-        "text": "政治环境"
-      },
-      {
-        "key": "C",
-        "text": "自然环境"
-      },
-      {
-        "key": "D",
-        "text": "经济环境"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-155",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "研究国内战略环境应重点把握哪些情况？",
-    "options": [
-      {
-        "key": "A",
-        "text": "地理环境"
-      },
-      {
-        "key": "B",
-        "text": "政治环境"
-      },
-      {
-        "key": "C",
-        "text": "军事力量"
-      },
-      {
-        "key": "D",
-        "text": "综合国力"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-156",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "格局是指事物在各种力量互相作用下呈现出来的态势，具有以下哪些特征？",
-    "options": [
-      {
-        "key": "A",
-        "text": "层次性"
-      },
-      {
-        "key": "B",
-        "text": "时代性"
-      },
-      {
-        "key": "C",
-        "text": "相对稳定性"
-      },
-      {
-        "key": "D",
-        "text": "依赖性"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-157",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "20世纪60年代中后期至80年代末，国际战略格局是并存时期。",
-    "options": [
-      {
-        "key": "A",
-        "text": "两极格局"
-      },
-      {
-        "key": "B",
-        "text": "多元交叉格局"
-      },
-      {
-        "key": "C",
-        "text": "三角格局"
-      },
-      {
-        "key": "D",
-        "text": "多极格局"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-158",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "以下哪些是当代国际战略格局的主要特点或趋势？",
+    "prompt": "以下哪些是当代国际战略格局的主要特点或趋势？（ ）",
     "options": [
       {
         "key": "A",
@@ -10556,7 +7531,7 @@
       },
       {
         "key": "D",
-        "text": "三圈格局"
+        "text": "三圈\n格局"
       }
     ],
     "answer": [
@@ -10564,16 +7539,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ACD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、C、D。A.一超多强；C.四边格局；D.三圈\n格局。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-159",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-15",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "中国在多格局中的作用主要体现在",
+    "prompt": "中国在多格局中的作用主要体现在（ ）",
     "options": [
       {
         "key": "A",
@@ -10589,7 +7564,7 @@
       },
       {
         "key": "D",
-        "text": "构建和谐世界"
+        "text": "构建和\n谐世界"
       }
     ],
     "answer": [
@@ -10598,16 +7573,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.反对霸权主义；B.制约强权政治；C.经济发展示范；D.构建和\n谐世界。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-160",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-16",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "现代国防的类型，按照性质可分为",
+    "prompt": "现代国防的类型，按照性质可分为（ ）",
     "options": [
       {
         "key": "A",
@@ -10615,7 +7590,7 @@
       },
       {
         "key": "B",
-        "text": " 自卫型"
+        "text": "自卫型"
       },
       {
         "key": "C",
@@ -10631,32 +7606,32 @@
       "B",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、D。A.扩张型；B.自卫型；D.中立型。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-161",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-17",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "国防的经济手段主要有哪几种？",
+    "prompt": "国防的目的是（ ）",
     "options": [
       {
         "key": "A",
-        "text": "国防经济活动"
+        "text": "捍卫国家的主权"
       },
       {
         "key": "B",
-        "text": "经济动员"
+        "text": "保卫国家的统一"
       },
       {
         "key": "C",
-        "text": "经济战"
+        "text": "保卫国家的领土完整"
       },
       {
         "key": "D",
-        "text": "经济制裁"
+        "text": "保障国家的安全"
       }
     ],
     "answer": [
@@ -10665,16 +7640,55 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.捍卫国家的主权；B.保卫国家的统一；C.保卫国家的领土完整；D.保障国家的安全。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-162",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-18",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "《中华人民共和国国防法》的使用范围包括",
+    "prompt": "根据《中华人民共和国国防法》的规定，公民负有以下几个方面的国防义务（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "履行服兵役的义务"
+      },
+      {
+        "key": "B",
+        "text": "接受国防教育的义务"
+      },
+      {
+        "key": "C",
+        "text": "保护国防设施的义务"
+      },
+      {
+        "key": "D",
+        "text": "保守国防秘密的义务"
+      },
+      {
+        "key": "E",
+        "text": "协助国防活动的义务"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "正确答案为A、B、C、D、E。A.履行服兵役的义务；B.接受国防教育的义务；C.保护国防设施的义务；D.保守国防秘密的义务；E.协助国防活动的义务。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-19",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "《中华人民共和国国防法》的使用范围包括（ ）",
     "options": [
       {
         "key": "A",
@@ -10686,7 +7700,7 @@
       },
       {
         "key": "C",
-        "text": "保卫国家的主权统一"
+        "text": "保卫国家的主权统\n一"
       },
       {
         "key": "D",
@@ -10699,16 +7713,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.防备和抵抗侵略；B.制止武装颠覆；C.保卫国家的主权统\n一；D.保卫领土完整和安全。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-163",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-20",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "中华人民共和国的武装力量组成部分为",
+    "prompt": "中华人民共和国的武装力量组成部分为（ ）",
     "options": [
       {
         "key": "A",
@@ -10733,16 +7747,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.解放军现役部队；B.解放军预备役部队；C.警察部队；D.民兵。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-164",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-21",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "国防动员按照动员方式分可以分为",
+    "prompt": "国防动员按照动员方式分可以分为（ ）",
     "options": [
       {
         "key": "A",
@@ -10751,67 +7765,26 @@
       {
         "key": "B",
         "text": "秘密动员"
-      },
-      {
-        "key": "C",
-        "text": "战争初期动员"
-      },
-      {
-        "key": "D",
-        "text": "总体动员"
       }
     ],
     "answer": [
       "A",
       "B"
     ],
-    "explanation": "根据军理题库7，正确答案为 AB。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B。A.公开动员；B.秘密动员。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-165",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-22",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "关于中国人民解放军预备役部队的描述，正确的是",
+    "prompt": "以下属于《兵役法》所规定的内容的是（ ）",
     "options": [
       {
         "key": "A",
-        "text": "组建于1985年"
-      },
-      {
-        "key": "B",
-        "text": "以现役军人为骨干"
-      },
-      {
-        "key": "C",
-        "text": "以预备役军官、士兵问基础"
-      },
-      {
-        "key": "D",
-        "text": "平时隶属于省军区"
-      }
-    ],
-    "answer": [
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 BCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-166",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "以下属于《兵役法》所规定的内容的是",
-    "options": [
-      {
-        "key": "A",
-        "text": " 兵役制度的性质"
+        "text": "兵役制度的性质"
       },
       {
         "key": "B",
@@ -10823,7 +7796,7 @@
       },
       {
         "key": "D",
-        "text": "高校学生军事训练"
+        "text": "高校\n学生军事训练"
       }
     ],
     "answer": [
@@ -10832,16 +7805,16 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.兵役制度的性质；B.兵员的平实征集；C.战时兵员动员；D.高校\n学生军事训练。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-167",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-23",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "关于我国现行的《国防教育法》的描述，正确的是",
+    "prompt": "关于我国现行的《国防教育法》的描述，正确的是（ ）",
     "options": [
       {
         "key": "A",
@@ -10849,15 +7822,15 @@
       },
       {
         "key": "B",
-        "text": "第九届全国人大常委会第21次会议上通过的"
+        "text": "第九届全国人大常委会第21次\n会议上通过的"
       },
       {
         "key": "C",
-        "text": " 是第一部国防教育法"
+        "text": "是第一部国防教育法"
       },
       {
         "key": "D",
-        "text": " 是2000年通过的"
+        "text": "是2000年通过的"
       }
     ],
     "answer": [
@@ -10865,32 +7838,115 @@
       "B",
       "C"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C。A.是2001年通过的；B.第九届全国人大常委会第21次\n会议上通过的；C.是第一部国防教育法。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-168",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-30",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "军事应用技术的内容非常广泛，按军事技术应用领域和应用者划分，有",
+    "prompt": "从信息化武器装备体系看，主要包括（ ）",
     "options": [
       {
         "key": "A",
-        "text": "陆军技术"
+        "text": "探测预警"
       },
       {
         "key": "B",
-        "text": "空军技术"
+        "text": "指挥控制"
       },
       {
         "key": "C",
-        "text": "战备导弹部队技术"
+        "text": "精确打击"
       },
       {
         "key": "D",
-        "text": "军兵种通用技术"
+        "text": "作战支援"
+      },
+      {
+        "key": "E",
+        "text": "勤务\n保障"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+    ],
+    "explanation": "正确答案为A、B、C、D、E。A.探测预警；B.指挥控制；C.精确打击；D.作战支援；E.勤务\n保障。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-31",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "信息化战场上军队行动的“大脑和中枢神经”是指集（ ）于一体的指挥控制系统。",
+    "options": [
+      {
+        "key": "A",
+        "text": "指挥"
+      },
+      {
+        "key": "B",
+        "text": "控制"
+      },
+      {
+        "key": "C",
+        "text": "通信"
+      },
+      {
+        "key": "D",
+        "text": "计算机"
+      },
+      {
+        "key": "E",
+        "text": "情报"
+      },
+      {
+        "key": "F",
+        "text": "监视和侦察"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E",
+      "F"
+    ],
+    "explanation": "正确答案为A、B、C、D、E、F。A.指挥；B.控制；C.通信；D.计算机；E.情报；F.监视和侦察。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-32",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "战争经过了的不同时代有（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "冷兵器时代"
+      },
+      {
+        "key": "B",
+        "text": "火器时代"
+      },
+      {
+        "key": "C",
+        "text": "机械化战争时代"
+      },
+      {
+        "key": "D",
+        "text": "信息化战争时代"
       }
     ],
     "answer": [
@@ -10899,98 +7955,32 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.冷兵器时代；B.火器时代；C.机械化战争时代；D.信息化战争时代。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-169",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-33",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "按照科学分类方法，科学技术的体系结构通常划分为",
+    "prompt": "信息化战争中，要取得胜利，需要具备（ ）",
     "options": [
       {
         "key": "A",
-        "text": "基础科学"
+        "text": "制陆权、制海权"
       },
       {
         "key": "B",
-        "text": "技术科学"
+        "text": "制空权"
       },
       {
         "key": "C",
-        "text": "通信技术"
+        "text": "制天权"
       },
       {
         "key": "D",
-        "text": "工程技术"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-170",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "军事高技术对现代战争的影响有",
-    "options": [
-      {
-        "key": "A",
-        "text": "高技术武器装备将明显改变现代战场与作战行动"
-      },
-      {
-        "key": "B",
-        "text": "军队结构将不断优化"
-      },
-      {
-        "key": "C",
-        "text": "高技术武器装备将强制性地引起作战方式的变革"
-      },
-      {
-        "key": "D",
-        "text": "军事高技术在战争中的广泛应用，加速了作战指挥体系的变革"
-      }
-    ],
-    "answer": [
-      "A",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ACD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-171",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "以下属于空军的部队兵种的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "航空兵"
-      },
-      {
-        "key": "B",
-        "text": "地空导弹兵"
-      },
-      {
-        "key": "C",
-        "text": "高射炮兵"
-      },
-      {
-        "key": "D",
-        "text": "空降兵"
+        "text": "制电磁权"
       }
     ],
     "answer": [
@@ -10999,66 +7989,36 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.制陆权、制海权；B.制空权；C.制天权；D.制电磁权。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-172",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-34",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "现代侦察监视技术按照侦察监视所采取的手段可分为",
+    "prompt": "信息化战争是时代的产物，是世界（ ）等因素作用的结果。",
     "options": [
       {
         "key": "A",
-        "text": "观察"
+        "text": "政治"
       },
       {
         "key": "B",
-        "text": "窃听"
+        "text": "经济"
       },
       {
         "key": "C",
-        "text": "火力侦察"
+        "text": "科技"
       },
       {
         "key": "D",
-        "text": "雷达侦察"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-173",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "影响侦察监视技术的基本因素有",
-    "options": [
-      {
-        "key": "A",
-        "text": "目标的特征信息"
+        "text": "军事"
       },
       {
-        "key": "B",
-        "text": "地形地物"
-      },
-      {
-        "key": "C",
-        "text": "气象条件"
-      },
-      {
-        "key": "D",
-        "text": "军人的品格、素质"
+        "key": "E",
+        "text": "文化"
       }
     ],
     "answer": [
@@ -11066,382 +8026,16 @@
       "B",
       "C"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C。A.政治；B.经济；C.科技。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-174",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-35",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "电子侦察技术的主要手段有",
-    "options": [
-      {
-        "key": "A",
-        "text": "设立地面电子侦听站"
-      },
-      {
-        "key": "B",
-        "text": "使用电子侦察飞机"
-      },
-      {
-        "key": "C",
-        "text": "电子侦察船"
-      },
-      {
-        "key": "D",
-        "text": "电子侦察卫星和投放式侦察设备"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-175",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "光电侦察装备获得的地域和目标图象、数据可以用于",
-    "options": [
-      {
-        "key": "A",
-        "text": "观察和记录"
-      },
-      {
-        "key": "B",
-        "text": "显示在荧光屏上供间接观察"
-      },
-      {
-        "key": "C",
-        "text": "记录在胶片或录象带上供事后分析"
-      },
-      {
-        "key": "D",
-        "text": "通过数据传输系统传至千里以外的信息中心"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-176",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "现代光电侦察装备在军事上可用于战场侦察、战役侦察和战略侦察，具体可用于",
-    "options": [
-      {
-        "key": "A",
-        "text": "探测和跟踪洲际导弹的发射"
-      },
-      {
-        "key": "B",
-        "text": "监控空中、地面和地下核武器爆炸试验"
-      },
-      {
-        "key": "C",
-        "text": "探测和监视敌方部队和单兵的活动"
-      },
-      {
-        "key": "D",
-        "text": "探测和跟踪战术导弹和飞机的来袭"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-177",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "我国古代著名的兵书有：",
-    "options": [
-      {
-        "key": "A",
-        "text": "孙子兵法"
-      },
-      {
-        "key": "B",
-        "text": "战争论"
-      },
-      {
-        "key": "C",
-        "text": "六韬"
-      },
-      {
-        "key": "D",
-        "text": "战争艺术"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-178",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "对《孙子兵法》评价正确的有",
-    "options": [
-      {
-        "key": "A",
-        "text": "词约意丰，博大精深，揭示了战争的一般规律"
-      },
-      {
-        "key": "B",
-        "text": "在军事哲理方面，具有朴素的唯物论和辩证法思想"
-      },
-      {
-        "key": "C",
-        "text": "存有糟粕，夹有某些唯心论和形而上学的成分"
-      },
-      {
-        "key": "D",
-        "text": "是一部记载军事历史为主的军事著作"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-179",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "曾受到《孙子兵法》军事思想影响的人有",
-    "options": [
-      {
-        "key": "A",
-        "text": "毛泽东"
-      },
-      {
-        "key": "B",
-        "text": "拿破仑"
-      },
-      {
-        "key": "C",
-        "text": "凯撒"
-      },
-      {
-        "key": "D",
-        "text": "克劳塞维茨"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-180",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "毛泽东军事思想的科学含义包括",
-    "options": [
-      {
-        "key": "A",
-        "text": "是毛泽东思想的重要组成部分"
-      },
-      {
-        "key": "B",
-        "text": "是以毛泽东为代表的老一代革命家、军事家集体经验和智慧的结晶"
-      },
-      {
-        "key": "C",
-        "text": "是马克思之一普遍原理同中国革命战争实践相结合的产物"
-      },
-      {
-        "key": "D",
-        "text": "是在长期革命战争中产生的具有中国特色的军事理论"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-181",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "具有中国特色的人民军队建设的理论和原则是",
-    "options": [
-      {
-        "key": "A",
-        "text": "实行集中指导下的民主制度"
-      },
-      {
-        "key": "B",
-        "text": "实行全心全意为人民服务的建军宗旨"
-      },
-      {
-        "key": "C",
-        "text": "确立中国共产党对军队的绝对领导地位"
-      },
-      {
-        "key": "D",
-        "text": "具有服从于人民根本利益的革命纪律"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-182",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "对红军作战“敌进我退，敌驻我打，敌疲我扰，敌退我追”的“十六字诀”评价正确的是",
-    "options": [
-      {
-        "key": "A",
-        "text": "是适应当时情况的有朴素性质的游击战基本原则"
-      },
-      {
-        "key": "B",
-        "text": "是毛泽东对中国革命战争进行理论指导的第一个表现"
-      },
-      {
-        "key": "C",
-        "text": "是我军战略战术体系的第一块基石"
-      },
-      {
-        "key": "D",
-        "text": "是毛泽东军事思想体系成熟的标志"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-183",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "人民战争正义性质的巨大威力主要表现在",
-    "options": [
-      {
-        "key": "A",
-        "text": "正义战争能推动历史进步"
-      },
-      {
-        "key": "B",
-        "text": "正义战争能动员人民群众广泛参战"
-      },
-      {
-        "key": "C",
-        "text": "正义战争能够得到国际上的广泛同情和援助"
-      },
-      {
-        "key": "D",
-        "text": "正义战争能坚持持久作战"
-      }
-    ],
-    "answer": [
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 BCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-184",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "1998年5月，等国短短几天内进行了多次核试验。",
-    "options": [
-      {
-        "key": "A",
-        "text": "印度"
-      },
-      {
-        "key": "B",
-        "text": "巴基斯坦"
-      },
-      {
-        "key": "C",
-        "text": "以色列"
-      },
-      {
-        "key": "D",
-        "text": "伊朗"
-      }
-    ],
-    "answer": [
-      "A",
-      "B"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AB。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-185",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "从信息化战争的本质而言，包含了等方面的含义。",
+    "prompt": "从信息化战争的本质而言，包含了（ ）等方面的含义。",
     "options": [
       {
         "key": "A",
@@ -11457,7 +8051,7 @@
       },
       {
         "key": "D",
-        "text": "信息化战争的性质仍然是政治的暴力继续"
+        "text": "信息化战争的性质\n仍然是政治的暴力继续"
       }
     ],
     "answer": [
@@ -11465,66 +8059,32 @@
       "B",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、D。A.信息化战争还将是核威慑下的高技术常规战争；B.武器系统的信息智能化和作战行动的一体化；D.信息化战争的性质\n仍然是政治的暴力继续。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-186",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-36",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "军事力量主要是国家军事力量的性质、职能、构成、规模和等",
+    "prompt": "信息化战争在打击目标的控制上，主要是打击（ ）",
     "options": [
       {
         "key": "A",
-        "text": "作战能力"
+        "text": "指挥控制枢纽"
       },
       {
         "key": "B",
-        "text": "战争潜力"
+        "text": "重要军事设施"
       },
       {
         "key": "C",
-        "text": "动员机制"
+        "text": "重兵集团"
       },
       {
         "key": "D",
-        "text": "发展方向"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-187",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "战略按社会历史时期划分，可分为",
-    "options": [
-      {
-        "key": "A",
-        "text": "古代战略"
-      },
-      {
-        "key": "B",
-        "text": "近代战略"
-      },
-      {
-        "key": "C",
-        "text": "现代战略"
-      },
-      {
-        "key": "D",
-        "text": "当代战略"
+        "text": "前线所有部队"
       }
     ],
     "answer": [
@@ -11532,117 +8092,20 @@
       "B",
       "C"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C。A.指挥控制枢纽；B.重要军事设施；C.重兵集团。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-188",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-37",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "战略按军种划分有",
+    "prompt": "我国国防的手段包括军事活动，以及与军事有关的（ ）等方面的活动。",
     "options": [
       {
         "key": "A",
-        "text": "陆军战略"
-      },
-      {
-        "key": "B",
-        "text": "海军战略"
-      },
-      {
-        "key": "C",
-        "text": "空军战略"
-      },
-      {
-        "key": "D",
-        "text": "二炮部队战略"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-189",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "战略环境主要包括国际和国内的政治、经济、军事、外交和（）等方面综合形成的客观情况和条件。",
-    "options": [
-      {
-        "key": "A",
-        "text": "科技"
-      },
-      {
-        "key": "B",
-        "text": "历史"
-      },
-      {
-        "key": "C",
-        "text": "地理"
-      },
-      {
-        "key": "D",
-        "text": "文化"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-190",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "当前世界军备竞赛逐步加剧，2007年美国宣布在部署导弹防御系统。",
-    "options": [
-      {
-        "key": "A",
-        "text": "捷克"
-      },
-      {
-        "key": "B",
-        "text": "韩国"
-      },
-      {
-        "key": "C",
-        "text": "波兰"
-      },
-      {
-        "key": "D",
-        "text": "日本"
-      }
-    ],
-    "answer": [
-      "A",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-191",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "国家战略格局的结构包括在内的国家战略关系的表现形式。",
-    "options": [
-      {
-        "key": "A",
-        "text": "国际政治"
+        "text": "政治"
       },
       {
         "key": "B",
@@ -11650,164 +8113,77 @@
       },
       {
         "key": "C",
-        "text": "军事"
+        "text": "外交"
       },
       {
         "key": "D",
-        "text": "地理"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-192",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "区分国际战略格局的不同类型，主要要依据格局的",
-    "options": [
-      {
-        "key": "A",
-        "text": "内部结构"
+        "text": "科技"
       },
       {
-        "key": "B",
-        "text": "地理环境"
-      },
-      {
-        "key": "C",
-        "text": "军事对比"
-      },
-      {
-        "key": "D",
-        "text": "外在形态"
-      }
-    ],
-    "answer": [
-      "A",
-      "D"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-193",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "当代一超多强的战略格局中的多强是指。",
-    "options": [
-      {
-        "key": "A",
-        "text": "俄罗斯"
-      },
-      {
-        "key": "B",
-        "text": "欧盟"
-      },
-      {
-        "key": "C",
-        "text": "中国"
-      },
-      {
-        "key": "D",
-        "text": "日本 E、印度"
+        "key": "E",
+        "text": "教育"
       }
     ],
     "answer": [
       "A",
       "B",
       "C",
-      "D"
+      "D",
+      "E"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D、E。A.政治；B.经济；C.外交；D.科技；E.教育。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-194",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-38",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "三圈战略格局是指在亚洲以为代表的政治、军事、经济圈。",
+    "prompt": "在国防法规体系的纵向关系上，依据我国国防立法的权限，通常将国防法规划分为以下哪几个层次：（ ）",
     "options": [
       {
         "key": "A",
-        "text": "东盟"
+        "text": "《中华人民共和国宪法》中的国防条款"
       },
       {
         "key": "B",
-        "text": "日本"
+        "text": "基本国防法律"
       },
       {
         "key": "C",
-        "text": "中国"
+        "text": "国防法律"
       },
       {
         "key": "D",
-        "text": "朝鲜"
+        "text": "国防法规"
+      },
+      {
+        "key": "E",
+        "text": "国防规章"
       }
     ],
     "answer": [
       "A",
       "B",
-      "C"
+      "C",
+      "D",
+      "E"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D、E。A.《中华人民共和国宪法》中的国防条款；B.基本国防法律；C.国防法律；D.国防法规；E.国防规章。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-195",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-39",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "三角格局是指以为代表的三角格局。",
+    "prompt": "国防法规体系包含的内容，主要包括以下哪几个方面的制度（ ）",
     "options": [
       {
         "key": "A",
-        "text": "美国"
-      },
-      {
-        "key": "B",
-        "text": "中国"
-      },
-      {
-        "key": "C",
-        "text": "俄罗斯"
-      },
-      {
-        "key": "D",
-        "text": "日本"
-      }
-    ],
-    "answer": [
-      "A",
-      "B",
-      "C"
-    ],
-    "explanation": "根据军理题库7，正确答案为 ABC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-196",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "国防法规体系包含的内容，主要包括以下哪几个方面的制度",
-    "options": [
-      {
-        "key": "A",
-        "text": " 国防领导"
+        "text": "国防领导"
       },
       {
         "key": "B",
@@ -11815,7 +8191,7 @@
       },
       {
         "key": "C",
-        "text": " 国防建设事业"
+        "text": "国防建设\n事业"
       },
       {
         "key": "D",
@@ -11828,72 +8204,107 @@
       "C",
       "D"
     ],
-    "explanation": "根据军理题库7，正确答案为 ABCD。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C、D。A.国防领导；B.武装力量建设；C.国防建设\n事业；D.军事刑事。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   },
   {
-    "id": "quiz7-multi-197",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
+    "id": "new-quiz-multi-40",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
     "type": "multiple_choice",
-    "prompt": "以下属于联盟型国防类型的国家有",
+    "prompt": "为了加强和完善国家对国防活动的管理，我国加强了国防法制的建设，以下对全国有普遍性指导意义的主\n要法律有：（ ）",
     "options": [
       {
         "key": "A",
-        "text": "美国"
+        "text": "《中华人民共和国教师法》"
       },
       {
         "key": "B",
-        "text": "日本"
+        "text": "《中华人民共和国国防法》"
       },
       {
         "key": "C",
-        "text": "中国"
+        "text": "《中华人民共和国兵役法》"
       },
       {
         "key": "D",
-        "text": "瑞典"
+        "text": "《中华人民共和国国防教育法》"
+      }
+    ],
+    "answer": [
+      "B",
+      "C",
+      "D"
+    ],
+    "explanation": "正确答案为B、C、D。B.《中华人民共和国国防法》；C.《中华人民共和国兵役法》；D.《中华人民共和国国防教育法》。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-41",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "根据《中华人民共和国国防法》的规定，公民享有的国防权利有（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "对国防建设提出建议的权利"
+      },
+      {
+        "key": "B",
+        "text": "制止\n和检举危害国防行为的权利"
+      },
+      {
+        "key": "C",
+        "text": "国防活动中经济受损失获得补偿的权利"
+      },
+      {
+        "key": "D",
+        "text": "保守国防秘密的权利"
       }
     ],
     "answer": [
       "A",
-      "B"
-    ],
-    "explanation": "根据军理题库7，正确答案为 AB。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
-  },
-  {
-    "id": "quiz7-multi-198",
-    "chapterId": "quiz7",
-    "chapterTitle": "军理题库7",
-    "type": "multiple_choice",
-    "prompt": "美国的国防类型属于",
-    "options": [
-      {
-        "key": "A",
-        "text": "扩张型"
-      },
-      {
-        "key": "B",
-        "text": " 自卫型"
-      },
-      {
-        "key": "C",
-        "text": "联盟型"
-      },
-      {
-        "key": "D",
-        "text": "中立型"
-      }
-    ],
-    "answer": [
-      "A",
+      "B",
       "C"
     ],
-    "explanation": "根据军理题库7，正确答案为 AC。",
-    "memoryHint": "题库7真题",
-    "sourceKind": "quiz7"
+    "explanation": "正确答案为A、B、C。A.对国防建设提出建议的权利；B.制止\n和检举危害国防行为的权利；C.国防活动中经济受损失获得补偿的权利。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
+  },
+  {
+    "id": "new-quiz-multi-42",
+    "chapterId": "new-quiz",
+    "chapterTitle": "军事理论重点试卷",
+    "type": "multiple_choice",
+    "prompt": "中国国防的历史带给人们的启示是（ ）",
+    "options": [
+      {
+        "key": "A",
+        "text": "经济发展是国防强大的基础"
+      },
+      {
+        "key": "B",
+        "text": "政治开明是国防巩固的根本"
+      },
+      {
+        "key": "C",
+        "text": "国\n家的统一和民族的团结是国防强大的关键。"
+      },
+      {
+        "key": "D",
+        "text": "社会历史是劳动人民创造的"
+      }
+    ],
+    "answer": [
+      "A",
+      "B",
+      "C"
+    ],
+    "explanation": "正确答案为A、B、C。A.经济发展是国防强大的基础；B.政治开明是国防巩固的根本；C.国\n家的统一和民族的团结是国防强大的关键。。",
+    "memoryHint": "重点试卷",
+    "sourceKind": "new_quiz"
   }
 ]

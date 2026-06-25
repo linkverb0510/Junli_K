@@ -20,7 +20,7 @@ export type Question = {
   sourcePage?: number;
   gradingMode?: "keywords";
   gradingKeywords?: string[];
-  sourceKind?: "pdf_original" | "docx_expanded" | "2018_exam" | "quiz7";
+  sourceKind?: "pdf_original" | "docx_expanded" | "2018_exam" | "quiz7" | "new_quiz";
 };
 
 export type QuestionProgress = {
