@@ -4,7 +4,9 @@ import { QuestionCard } from "../components/QuestionCard";
 import { useQuiz } from "../context/QuizContext";
 import { filterQuestionsByMode } from "../lib/questionUtils";
 import { gradeBlankAnswer } from "../lib/quizStore";
-import type { StoredProgress } from "../types";
+import type { Question, StoredProgress } from "../types";
+
+type QuestionTypeFilter = "all" | "single_choice" | "multiple_choice" | "fill_blank";
 
 export function PracticePage() {
   const { mode = "random" } = useParams();
@@ -33,6 +35,8 @@ export function PracticePage() {
   const [slideDirection, setSlideDirection] = useState<"left" | "right">("right");
   const [showKeyboardHelp, setShowKeyboardHelp] = useState(false);
   const [submissionResult, setSubmissionResult] = useState<"correct" | "wrong" | null>(null);
+  const [typeFilter, setTypeFilter] = useState<QuestionTypeFilter>("all");
+  const autoAdvanceTimer = useRef<ReturnType<typeof setTimeout> | null>(null);
   const pageRef = useRef<HTMLDivElement>(null);
 
   const neutralProgress = useMemo<StoredProgress>(() => ({ version: 1, byQuestionId: {} }), []);
@@ -47,13 +51,33 @@ export function PracticePage() {
   );
   const baseQuestions = mode === "wrong" || mode === "favorites" ? progressBaseQuestions : neutralBaseQuestions;
 
-  const sessionQuestions = useMemo(() => {
-    return mode === "random" ? [...baseQuestions] : baseQuestions;
-  }, [baseQuestions, mode]);
+  // 应用题型筛选
+  const filteredQuestions = useMemo(() => {
+    if (typeFilter === "all") return baseQuestions;
+    return baseQuestions.filter((q) => q.type === typeFilter);
+  }, [baseQuestions, typeFilter]);
 
-  const currentQuestion = sessionQuestions[currentIndex];
+  const sessionQuestions = useMemo(() => {
+    return mode === "random" ? [...filteredQuestions] : filteredQuestions;
+  }, [filteredQuestions, mode]);
+
+  // 确保 currentIndex 不超出范围（修复错题本 bug）
+  const safeIndex = useMemo(() => {
+    if (sessionQuestions.length === 0) return 0;
+    return Math.min(currentIndex, sessionQuestions.length - 1);
+  }, [currentIndex, sessionQuestions.length]);
+
+  const currentQuestion = sessionQuestions[safeIndex];
+
+  // 清理自动切题定时器
+  useEffect(() => {
+    return () => {
+      if (autoAdvanceTimer.current) clearTimeout(autoAdvanceTimer.current);
+    };
+  }, []);
 
   function moveTo(nextIndex: number, direction: "left" | "right" = "right") {
+    if (autoAdvanceTimer.current) clearTimeout(autoAdvanceTimer.current);
     setSlideDirection(direction);
     setCurrentIndex(nextIndex);
     setRevealAnswer(false);
@@ -63,16 +87,32 @@ export function PracticePage() {
     setSubmissionResult(null);
   }
 
-  // 键盘快捷键 (A3)
+  // 处理答题结果（核心逻辑：答对自动切题，答错停留）
+  function handleAnswerResult(result: "correct" | "wrong") {
+    setSubmissionResult(result);
+    setRevealAnswer(true);
+
+    if (result === "correct") {
+      // 答对：延迟后自动切到下一题
+      autoAdvanceTimer.current = setTimeout(() => {
+        if (safeIndex < sessionQuestions.length - 1) {
+          moveTo(safeIndex + 1, "right");
+        } else {
+          // 最后一题答对，显示完成提示
+          setRevealAnswer(true);
+        }
+      }, 600);
+    }
+    // 答错：不做任何事，停留在当前题展示解析
+  }
+
+  // 键盘快捷键
   useEffect(() => {
     function handleKeyDown(e: KeyboardEvent) {
-      // 如果焦点在输入框/文本域，不触发快捷键
       const target = e.target as HTMLElement;
       if (target.tagName === "INPUT" || target.tagName === "TEXTAREA") return;
-
       if (!currentQuestion) return;
 
-      // A/B/C/D 选择选项
       if (["a", "b", "c", "d", "A", "B", "C", "D"].includes(e.key)) {
         const key = e.key.toUpperCase();
         if (currentQuestion.type === "single_choice" && !revealAnswer) {
@@ -80,8 +120,7 @@ export function PracticePage() {
           if (option) {
             setSelectedChoices([key]);
             const result = answerChoice(currentQuestion, key);
-            setSubmissionResult(result);
-            setRevealAnswer(true);
+            handleAnswerResult(result);
           }
         } else if (currentQuestion.type === "multiple_choice" && !revealAnswer) {
           const option = currentQuestion.options?.find((o) => o.key === key);
@@ -93,43 +132,34 @@ export function PracticePage() {
         }
       }
 
-      // Enter 提交多选答案
       if (e.key === "Enter" && currentQuestion.type === "multiple_choice" && !revealAnswer && selectedChoices.length > 0) {
         const result = answerMultipleChoice(currentQuestion, selectedChoices);
-        setSubmissionResult(result);
-        setRevealAnswer(true);
+        handleAnswerResult(result);
       }
 
-      // Enter 提交填空答案
       if (e.key === "Enter" && currentQuestion.type === "fill_blank" && !revealAnswer && blankInput.trim()) {
         const result = gradeBlankAnswer(currentQuestion, blankInput);
         setBlankGrade(result);
         reviewBlank(currentQuestion, result.result);
-        setSubmissionResult(result.result);
-        setRevealAnswer(true);
+        handleAnswerResult(result.result);
       }
 
-      // ← 上一题
-      if (e.key === "ArrowLeft" && currentIndex > 0) {
-        moveTo(currentIndex - 1, "left");
+      if (e.key === "ArrowLeft" && safeIndex > 0) {
+        moveTo(safeIndex - 1, "left");
       }
 
-      // → 下一题
-      if (e.key === "ArrowRight" && currentIndex < sessionQuestions.length - 1) {
-        moveTo(currentIndex + 1, "right");
+      if (e.key === "ArrowRight" && safeIndex < sessionQuestions.length - 1) {
+        moveTo(safeIndex + 1, "right");
       }
 
-      // F 收藏
       if (e.key === "f" || e.key === "F") {
         toggleQuestionFavorite(currentQuestion.id);
       }
 
-      // ? 显示快捷键帮助
       if (e.key === "?") {
         setShowKeyboardHelp((v) => !v);
       }
 
-      // Escape 关闭帮助
       if (e.key === "Escape") {
         setShowKeyboardHelp(false);
       }
@@ -137,7 +167,7 @@ export function PracticePage() {
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [currentQuestion, revealAnswer, selectedChoices, blankInput, currentIndex, sessionQuestions.length, answerChoice, answerMultipleChoice, reviewBlank, toggleQuestionFavorite]);
+  }, [currentQuestion, revealAnswer, selectedChoices, blankInput, safeIndex, sessionQuestions.length, answerChoice, answerMultipleChoice, reviewBlank, toggleQuestionFavorite]);
 
   if (loading) {
     return <p>正在加载题库...</p>;
@@ -155,6 +185,13 @@ export function PracticePage() {
     );
   }
 
+  const typeFilterLabels: Record<QuestionTypeFilter, string> = {
+    all: "全部",
+    single_choice: "单选",
+    multiple_choice: "多选",
+    fill_blank: "填空",
+  };
+
   return (
     <div className="stack" ref={pageRef}>
       <header className="section-header">
@@ -164,31 +201,56 @@ export function PracticePage() {
         </div>
       </header>
 
-      {/* 题目导航面板 (A1) */}
+      {/* 题目导航面板 */}
       <div className="question-nav-panel">
         <div
           className={`question-nav-header ${navExpanded ? "expanded" : ""}`}
           onClick={() => setNavExpanded(!navExpanded)}
         >
-          <span>题目导航 ({currentIndex + 1}/{sessionQuestions.length})</span>
+          <span>题目导航 ({safeIndex + 1}/{sessionQuestions.length})</span>
           <span className="toggle-icon">{navExpanded ? "▴" : "▾"}</span>
         </div>
-        <div className={`question-nav-grid ${navExpanded ? "expanded" : ""}`}>
-          {sessionQuestions.map((q, idx) => {
-            const qProgress = progress.byQuestionId[q.id];
-            const statusClass = qProgress?.status === "correct" ? "correct" : qProgress?.status === "wrong" ? "wrong" : "";
-            const currentClass = idx === currentIndex ? "current" : "";
-            return (
-              <button
-                key={q.id}
-                className={`question-nav-item ${statusClass} ${currentClass}`}
-                onClick={() => moveTo(idx, idx > currentIndex ? "right" : "left")}
-              >
-                {idx + 1}
-              </button>
-            );
-          })}
-        </div>
+        {navExpanded && (
+          <>
+            {/* 题型筛选 */}
+            <div className="question-nav-type-filter">
+              {(Object.keys(typeFilterLabels) as QuestionTypeFilter[]).map((type) => (
+                <button
+                  key={type}
+                  className={`nav-type-btn${typeFilter === type ? " active" : ""}`}
+                  onClick={() => {
+                    setTypeFilter(type);
+                    setCurrentIndex(0);
+                    setRevealAnswer(false);
+                    setSelectedChoices([]);
+                    setBlankInput("");
+                    setBlankGrade(null);
+                    setSubmissionResult(null);
+                  }}
+                >
+                  {typeFilterLabels[type]}
+                </button>
+              ))}
+            </div>
+            {/* 题号网格 */}
+            <div className="question-nav-grid expanded">
+              {sessionQuestions.map((q, idx) => {
+                const qProgress = progress.byQuestionId[q.id];
+                const statusClass = qProgress?.status === "correct" ? "correct" : qProgress?.status === "wrong" ? "wrong" : "";
+                const currentClass = idx === safeIndex ? "current" : "";
+                return (
+                  <button
+                    key={q.id}
+                    className={`question-nav-item ${statusClass} ${currentClass}`}
+                    onClick={() => moveTo(idx, idx > safeIndex ? "right" : "left")}
+                  >
+                    {idx + 1}
+                  </button>
+                );
+              })}
+            </div>
+          </>
+        )}
       </div>
 
       {currentQuestion ? (
@@ -197,7 +259,7 @@ export function PracticePage() {
             key={currentQuestion.id}
             question={currentQuestion}
             progress={progress.byQuestionId[currentQuestion.id]}
-            index={currentIndex}
+            index={safeIndex}
             total={sessionQuestions.length}
             revealAnswer={revealAnswer}
             selectedChoices={selectedChoices}
@@ -208,8 +270,7 @@ export function PracticePage() {
             onChoiceSelect={(selected) => {
               setSelectedChoices([selected]);
               const result = answerChoice(currentQuestion, selected);
-              setSubmissionResult(result);
-              setRevealAnswer(true);
+              handleAnswerResult(result);
             }}
             onMultipleToggle={(selected) => {
               setSelectedChoices((current) =>
@@ -218,16 +279,14 @@ export function PracticePage() {
             }}
             onMultipleSubmit={() => {
               const result = answerMultipleChoice(currentQuestion, selectedChoices);
-              setSubmissionResult(result);
-              setRevealAnswer(true);
+              handleAnswerResult(result);
             }}
             onBlankInputChange={setBlankInput}
             onBlankSubmit={() => {
               const result = gradeBlankAnswer(currentQuestion, blankInput);
               setBlankGrade(result);
               reviewBlank(currentQuestion, result.result);
-              setSubmissionResult(result.result);
-              setRevealAnswer(true);
+              handleAnswerResult(result.result);
             }}
             onBlankOverride={(result) => {
               overrideBlankReview(currentQuestion.id, result);
@@ -243,16 +302,16 @@ export function PracticePage() {
             <button
               type="button"
               className="secondary-button"
-              disabled={currentIndex === 0}
-              onClick={() => moveTo(currentIndex - 1, "left")}
+              disabled={safeIndex === 0}
+              onClick={() => moveTo(safeIndex - 1, "left")}
             >
               ← 上一题
             </button>
             <button
               type="button"
               className="primary-button"
-              disabled={currentIndex >= sessionQuestions.length - 1}
-              onClick={() => moveTo(currentIndex + 1, "right")}
+              disabled={safeIndex >= sessionQuestions.length - 1}
+              onClick={() => moveTo(safeIndex + 1, "right")}
             >
               下一题 →
             </button>
@@ -262,7 +321,7 @@ export function PracticePage() {
 
       {/* 快捷键提示条 */}
       <div className="keyboard-hint-bar">
-        <span> 支持键盘操作：A/B/C/D 选选项 · ←→ 翻页 · Enter 提交 · </span>
+        <span>💡 支持键盘操作：A/B/C/D 选选项 · ←→ 翻页 · Enter 提交 · </span>
         <button className="keyboard-hint-link" onClick={() => setShowKeyboardHelp(!showKeyboardHelp)}>
           查看全部快捷键
         </button>
