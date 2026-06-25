@@ -16,10 +16,8 @@ type QuestionCardProps = {
   selectedChoices: string[];
   blankInput: string;
   blankGrade: BlankGradeResult | null;
-  onlyStarred: boolean;
   slideDirection?: "left" | "right";
   submissionResult?: "correct" | "wrong" | null;
-  onToggleStarFilter: () => void;
   onChoiceSelect: (selected: string) => void;
   onMultipleToggle: (selected: string) => void;
   onMultipleSubmit: () => void;
@@ -42,10 +40,8 @@ export function QuestionCard({
   selectedChoices,
   blankInput,
   blankGrade,
-  onlyStarred,
   slideDirection = "right",
   submissionResult = null,
-  onToggleStarFilter,
   onChoiceSelect,
   onMultipleToggle,
   onMultipleSubmit,
@@ -78,16 +74,12 @@ export function QuestionCard({
         </div>
 
         <div className="question-tags">
-          <span className="tag star">{"★".repeat(question.starLevel)}</span>
           <span className={`tag status ${progress?.status ?? "unseen"}`}>
             {progress?.status === "correct" ? "已掌握" : progress?.status === "wrong" ? "错题" : "未作答"}
           </span>
           <button className="ghost-button" type="button" onClick={onFavorite}>
             {progress?.favorite ? "已收藏" : "收藏题目"}
           </button>
-          <label className="star-toggle">
-            <input type="checkbox" checked={onlyStarred} onChange={onToggleStarFilter} /> 只看三星题
-          </label>
         </div>
 
         <h2 className="question-prompt">{question.prompt}</h2>

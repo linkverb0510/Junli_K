@@ -9,7 +9,6 @@ export function getChapterSummary(questions: Question[], progress: StoredProgres
       total: number;
       completed: number;
       wrong: number;
-      starred: number;
     }
   >();
 
@@ -21,13 +20,9 @@ export function getChapterSummary(questions: Question[], progress: StoredProgres
         total: 0,
         completed: 0,
         wrong: 0,
-        starred: 0,
       };
 
     current.total += 1;
-    if (question.starLevel === 3) {
-      current.starred += 1;
-    }
 
     const item = progress.byQuestionId[question.id];
     if (item?.status && item.status !== "unseen") {

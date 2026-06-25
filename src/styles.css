@@ -435,11 +435,6 @@ button:disabled {
   color: var(--color-text-secondary);
 }
 
-.tag.star {
-  background: var(--color-warning-bg);
-  color: #92400e;
-}
-
 .tag.status.correct {
   background: var(--color-success-bg);
   color: #166534;
@@ -931,19 +926,6 @@ button:disabled {
 /* ═══════════════════════════════════════════════════════════
    收藏按钮
    ═══════════════════════════════════════════════════════════ */
-
-.star-toggle {
-  display: flex;
-  align-items: center;
-  gap: var(--spacing-xs);
-  font-size: 13px;
-  color: var(--color-text-secondary);
-  cursor: pointer;
-}
-
-.star-toggle input {
-  cursor: pointer;
-}
 
 /* ═══════════════════════════════════════════════════════════
    响应式 (A6: 汉堡菜单)

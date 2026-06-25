@@ -26,7 +26,6 @@ export function ChaptersPage() {
             <p>题量：{chapter.total}</p>
             <p>已完成：{chapter.completed}</p>
             <p>错题：{chapter.wrong}</p>
-            <p>三星题：{chapter.starred}</p>
             <Link className="primary-button" to={`/practice/chapter?chapterId=${chapter.chapterId}`}>
               进入本章
             </Link>

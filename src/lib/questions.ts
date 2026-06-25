@@ -1,5 +1,4 @@
 import rawQuestions from "../../data/questions.json";
-import expandedQuestions from "../../data/questions.expanded.json";
 import type { Question } from "../types";
 
 function normalizeQuestion(question: Question): Question {
@@ -24,5 +23,5 @@ function normalizeQuestion(question: Question): Question {
 }
 
 export async function loadQuestions(): Promise<Question[]> {
-  return [...(rawQuestions as Question[]), ...(expandedQuestions as Question[])].map(normalizeQuestion);
+  return (rawQuestions as Question[]).map(normalizeQuestion);
 }

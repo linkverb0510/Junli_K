@@ -29,7 +29,6 @@ export function PracticePage() {
     matched: string[];
     missing: string[];
   } | null>(null);
-  const [onlyStarred, setOnlyStarred] = useState(false);
   const [navExpanded, setNavExpanded] = useState(false);
   const [slideDirection, setSlideDirection] = useState<"left" | "right">("right");
   const [showKeyboardHelp, setShowKeyboardHelp] = useState(false);
@@ -49,9 +48,8 @@ export function PracticePage() {
   const baseQuestions = mode === "wrong" || mode === "favorites" ? progressBaseQuestions : neutralBaseQuestions;
 
   const sessionQuestions = useMemo(() => {
-    const base = mode === "random" ? [...baseQuestions] : baseQuestions;
-    return onlyStarred ? base.filter((question) => question.starLevel === 3) : base;
-  }, [baseQuestions, mode, onlyStarred]);
+    return mode === "random" ? [...baseQuestions] : baseQuestions;
+  }, [baseQuestions, mode]);
 
   const currentQuestion = sessionQuestions[currentIndex];
 
@@ -205,13 +203,8 @@ export function PracticePage() {
             selectedChoices={selectedChoices}
             blankInput={blankInput}
             blankGrade={blankGrade}
-            onlyStarred={onlyStarred}
             slideDirection={slideDirection}
             submissionResult={submissionResult}
-            onToggleStarFilter={() => {
-              setOnlyStarred((current) => !current);
-              moveTo(0);
-            }}
             onChoiceSelect={(selected) => {
               setSelectedChoices([selected]);
               const result = answerChoice(currentQuestion, selected);

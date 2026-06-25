@@ -12,7 +12,6 @@ export type Question = {
   chapterId: string;
   chapterTitle: string;
   type: QuestionType;
-  starLevel: 1 | 2 | 3;
   prompt: string;
   options?: QuestionOption[];
   answer: string | string[];

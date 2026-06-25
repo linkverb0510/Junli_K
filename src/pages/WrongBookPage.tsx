@@ -67,7 +67,7 @@ export function WrongBookPage() {
                   <div>
                     <p className="wrong-title">{question.prompt}</p>
                     <p className="wrong-meta">
-                      {"★".repeat(question.starLevel)} · {question.type === "single_choice" ? "单选题" : question.type === "multiple_choice" ? "多选题" : "填空题"}
+                      {question.type === "single_choice" ? "单选题" : question.type === "multiple_choice" ? "多选题" : "填空题"}
                     </p>
                   </div>
                   <button type="button" className="ghost-button" onClick={() => clearWrongMark(question.id)}>
