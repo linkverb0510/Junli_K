@@ -6110,7 +6110,7 @@
     "id": "new-quiz-choice-5",
     "chapterId": "new-quiz",
     "chapterTitle": "军事理论重点试卷",
-    "type": "single_choice",
+    "type": "multiple_choice",
     "prompt": "孙子谋略制胜的用兵思想突出体现在哪些方面？（ ）",
     "options": [
       {
@@ -6130,7 +6130,11 @@
         "text": "不战而\n屈人之兵"
       }
     ],
-    "answer": "ABD",
+    "answer": [
+      "A",
+      "B",
+      "D"
+    ],
     "explanation": "正确答案为ABD。",
     "memoryHint": "重点试卷",
     "sourceKind": "new_quiz"
@@ -6139,7 +6143,7 @@
     "id": "new-quiz-choice-6",
     "chapterId": "new-quiz",
     "chapterTitle": "军事理论重点试卷",
-    "type": "single_choice",
+    "type": "multiple_choice",
     "prompt": "胡锦涛国防和军队建设理论的主要内容包括哪几个部分？",
     "options": [
       {
@@ -6159,7 +6163,12 @@
         "text": "坚持国防建设与军队建设协调发展。E、坚持国防建设与经济建设协调发展"
       }
     ],
-    "answer": "ABCD",
+    "answer": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
     "explanation": "正确答案为ABCD。",
     "memoryHint": "重点试卷",
     "sourceKind": "new_quiz"
